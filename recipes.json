@@ -1,0 +1,2159 @@
+{
+  "Breakfast": [
+    {
+      "title": "Amaranth With Yogurt & Kiwifruit",
+      "mandatory_ingredients": ["Amaranth", "plain yogurt", "kiwifruit"],
+      "optional_ingredients": ["Almonds", "nutmeg"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g amaranth",
+          "1 cup ~ 7oz ~ 200ml plain yogurt",
+          "2 kiwifruit",
+          "Almonds (optional)",
+          "Nutmeg (optional)"
+        ],
+        "steps": [
+          "Add amaranth to a cooking pot. Cover amaranth with double the amount of water and season for taste.",
+          "Bring water to a boil then lower heat to low. Cover the pot with a lid and simmer until it has completely absorbed the water ~ 15 minutes.",
+          "Transfer cooked amaranth to a plate.",
+          "Add yogurt.",
+          "Add peeled and sliced kiwifruit.",
+          "Top with almonds and sprinkle with nutmeg (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Amaranth With Yogurt & Pear",
+      "mandatory_ingredients": ["Amaranth", "plain yogurt", "pears"],
+      "optional_ingredients": ["Cocoa", "carob flour"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g amaranth",
+          "1 cup ~ 7oz ~ 200ml plain yogurt",
+          "2 pears",
+          "2 tbsps cocoa (optional)",
+          "Carob flour (optional)"
+        ],
+        "steps": [
+          "Add amaranth to a cooking pot. Cover amaranth with double the amount of water and season for taste.",
+          "Bring water to a boil then lower heat to low. Cover the pot with a lid and simmer until it has completely absorbed the water ~ 15 minutes.",
+          "Transfer cooked amaranth to a plate.",
+          "Add peeled and diced pear.",
+          "Mix yogurt with cocoa (if using) and add it to the plate. Sprinkle with cocoa."
+        ]
+      }
+    },
+    {
+      "title": "Amaranth With Yogurt & Strawberries",
+      "mandatory_ingredients": ["Amaranth", "plain yogurt", "strawberries"],
+      "optional_ingredients": ["Hemp hearts"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g amaranth",
+          "1 cup ~ 7oz ~ 200ml plain yogurt",
+          "1 cup ~ 7oz ~ 200g strawberries",
+          "Hemp hearts (optional)"
+        ],
+        "steps": [
+          "Add amaranth to a cooking pot. Cover amaranth with double the amount of water and season for taste.",
+          "Bring water to a boil then lower heat to low. Cover the pot with a lid and simmer until it has completely absorbed the water ~ 15 minutes.",
+          "Transfer cooked amaranth to a plate.",
+          "Add yogurt.",
+          "Top with sliced strawberries.",
+          "Add hemp hearts (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Apple With Orange Fruit Salad",
+      "mandatory_ingredients": ["Apples", "oranges", "bananas"],
+      "optional_ingredients": ["Hazelnuts", "cinnamon"],
+      "recipe": {
+        "ingredients": [
+          "2 apples",
+          "2 oranges",
+          "2 bananas",
+          "Hazelnuts (optional)",
+          "Cinnamon (optional)"
+        ],
+        "steps": [
+          "Wash oranges and apples. Peel the oranges and cut all the fruit into bite-sized pieces. Reserve some of the orange.",
+          "Squeeze the reserved orange over the fruit and mix everything together.",
+          "Sprinkle with cinnamon and garnish with chopped hazelnuts (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Apple Peanut Butter Toast",
+      "mandatory_ingredients": ["Bread", "peanut butter", "apple"],
+      "optional_ingredients": ["Cinnamon"],
+      "recipe": {
+        "ingredients": [
+          "2 slices of bread",
+          "4 tbsps peanut butter",
+          "1 apple",
+          "Cinnamon (optional)"
+        ],
+        "steps": [
+          "Toast the bread.",
+          "Spread the peanut butter over the toast.",
+          "Slice the apple and arrange the slices on top of the toast.",
+          "Sprinkle with cinnamon (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Avocado Mushroom Toast",
+      "mandatory_ingredients": ["Cooked mushrooms", "bread", "avocado"],
+      "optional_ingredients": ["Spring onions", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 7oz ~ 200g cooked mushrooms",
+          "2 slices of bread",
+          "1 avocado",
+          "Spring onions (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Add mushrooms and ½ cup of water to a frying pan. Bring to a boil and cook on high heat until all the water has evaporated.",
+          "Reduce heat to medium. Season for taste and stir continuously until the mushrooms become golden brown.",
+          "Toast the bread.",
+          "Cut, de-stone and peel the avocado. Mash it with a fork and spread on the toast.",
+          "Add cooked mushrooms.",
+          "Garnish with spring onions and sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Avocado Tomato Toast",
+      "mandatory_ingredients": ["Bread", "avocado", "tomato"],
+      "optional_ingredients": ["Balsamic vinegar", "parsley", "pine nuts"],
+      "recipe": {
+        "ingredients": [
+          "2 slices of bread",
+          "1 avocado",
+          "1 tomato",
+          "Balsamic vinegar (optional)",
+          "Parsley (optional)",
+          "Pine nuts (optional)"
+        ],
+        "steps": [
+          "Toast the bread.",
+          "Cut, de-stone and peel the avocado. Mash it with a fork and spread on the toast.",
+          "Add sliced tomatoes.",
+          "Top with parsley and pine nuts (if using). Drizzle with balsamic vinegar (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Banana Peanut Butter Rolls",
+      "mandatory_ingredients": ["Tortilla wraps", "bananas", "peanut butter"],
+      "optional_ingredients": ["Cinnamon"],
+      "recipe": {
+        "ingredients": [
+          "2 tortilla wraps",
+          "2 bananas",
+          "4 tbsps peanut butter",
+          "Cinnamon (optional)"
+        ],
+        "steps": [
+          "Toast tortilla in the oven for 2 minutes.",
+          "Spread peanut butter over the tortilla.",
+          "Add ripe banana and sprinkle with cinnamon (if using).",
+          "Roll it up.",
+          "Cut into two or into bite-sized rolls and sprinkle with cinnamon again (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Banana Toast",
+      "mandatory_ingredients": ["Bread", "bananas"],
+      "optional_ingredients": ["Walnuts", "cinnamon"],
+      "recipe": {
+        "ingredients": [
+          "2 slices of bread",
+          "2 bananas",
+          "Walnuts (optional)",
+          "Cinnamon (optional)"
+        ],
+        "steps": [
+          "Toast the bread.",
+          "Mash the banana with a fork and spread it over the toast.",
+          "Add walnuts (if using).",
+          "Sprinkle with cinnamon (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Black Bean Avocado Toast",
+      "mandatory_ingredients": ["Cooked black beans", "bread", "avocado"],
+      "optional_ingredients": ["Parsley", "hemp hearts"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked black beans",
+          "2 slices of bread",
+          "1 avocado",
+          "Parsley (optional)",
+          "Hemp hearts (optional)"
+        ],
+        "steps": [
+          "Toast the bread.",
+          "Cut, de-stone and peel the avocado. Mash it with a fork and spread on the toast.",
+          "Drain and add black beans. Season for taste.",
+          "Garnish with parsley and hemp hearts (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Black Bean Brownies",
+      "mandatory_ingredients": ["Cooked black beans", "oat flakes", "milk", "bananas", "cocoa powder"],
+      "optional_ingredients": ["Maple syrup", "chocolate protein powder"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked black beans",
+          "1 cup ~ 3oz ~ 100g oat flakes",
+          "1 cup ~ 7oz ~ 200ml milk",
+          "2 bananas",
+          "3 tbsps cocoa powder",
+          "3 tbsps maple syrup (optional)",
+          "1 scoop chocolate protein powder (optional)"
+        ],
+        "steps": [
+          "Combine all of the ingredients in a mixing bowl.",
+          "Mash everything together with a potato masher, a spoon or a hand blender.",
+          "Transfer the batter to a baking dish lined with baking paper and spread it with a spoon.",
+          "Preheat the oven to 400°F (200°C) and bake the brownies in the middle of the oven for 40 minutes.",
+          "Let them rest for 30 minutes outside of the oven before cutting."
+        ]
+      }
+    },
+    {
+      "title": "Chickpea Cucumber Toast",
+      "mandatory_ingredients": ["Cooked chickpeas", "bread", "cucumbers", "tahini"],
+      "optional_ingredients": ["Garlic", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked chickpeas",
+          "2 slices of bread",
+          "2 cucumbers",
+          "2 tbsps tahini",
+          "Garlic (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Drain the chickpeas and transfer to a bowl. Add garlic (if using), tahini and ½ cup of water.",
+          "Season for taste and mash chickpeas and tahini together with a fork until combined.",
+          "Toast the bread and spread chickpea paste over a slice of bread.",
+          "Use a potato peeler to cut cucumber into ribbons and place on top of the toast.",
+          "Sprinkle with sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Granola Yogurt",
+      "mandatory_ingredients": ["Rolled oats", "plain yogurt", "butter"],
+      "optional_ingredients": ["Sunflower seeds", "coconut flakes", "cranberries", "hazelnuts"],
+      "recipe": {
+        "ingredients": [
+          "2 cups ~ 7oz ~ 200g rolled oats",
+          "2 cups ~ 13oz ~ 400ml plain yogurt",
+          "2 tbsps butter",
+          "Sunflower seeds (optional)",
+          "Coconut flakes (optional)",
+          "Cranberries (optional)",
+          "Hazelnuts (optional)"
+        ],
+        "steps": [
+          "Add butter to a frying pan. Heat it up and add rolled oats.",
+          "Add any dried berries or dried fruit of your choice, nuts and seeds (if using).",
+          "Toast the oats for 5 minutes or until they begin to turn golden brown.",
+          "Transfer plain yogurt to a bowl.",
+          "Top with toasted oats."
+        ]
+      }
+    }
+  ],
+  "Lunch/Dinner": [
+    {
+      "title": "Oatmeal With Apple & Raisins",
+      "mandatory_ingredients": ["Oat flakes", "apples", "raisins"],
+      "optional_ingredients": ["Cinnamon", "nutmeg"],
+      "recipe": {
+        "ingredients": [
+          "2 cups ~ 7oz ~ 200g oat flakes",
+          "2 apples",
+          "3oz ~ 90g raisins",
+          "Cinnamon (optional)",
+          "Nutmeg (optional)"
+        ],
+        "steps": [
+          "Cover oat flakes with double the amount of water.",
+          "Bring to a boil and stir for 3 minutes until it thickens.",
+          "Transfer cooked oatmeal to a plate.",
+          "Add diced apple.",
+          "Add raisins and sprinkle with cinnamon and nutmeg (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Oatmeal With Banana",
+      "mandatory_ingredients": ["Oat flakes", "bananas"],
+      "optional_ingredients": ["Walnuts", "cinnamon"],
+      "recipe": {
+        "ingredients": [
+          "2 cups ~ 7oz ~ 200g oat flakes",
+          "2 bananas",
+          "Walnuts (optional)",
+          "Cinnamon (optional)"
+        ],
+        "steps": [
+          "Cover oat flakes with double the amount of water.",
+          "Bring to a boil and stir for 3 minutes or until it thickens.",
+          "Transfer cooked oatmeal to a plate.",
+          "Add banana sliced lengthwise.",
+          "Add walnuts and sprinkle with cinnamon (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Oatmeal Blueberry Bake",
+      "mandatory_ingredients": ["Oat flakes", "frozen blueberries"],
+      "optional_ingredients": ["Maple syrup", "walnuts", "powdered clove"],
+      "recipe": {
+        "ingredients": [
+          "2 cups ~ 7oz ~ 200g oat flakes",
+          "2 cups ~ 10oz ~ 300g frozen blueberries",
+          "3 tbsps maple syrup (optional)",
+          "Crushed walnuts (optional)",
+          "Powdered clove (optional)"
+        ],
+        "steps": [
+          "Combine oat flakes and water 1:1 ratio in a cooking pot. Add maple syrup (if using) and mix well.",
+          "Transfer to a cooking plate and bring to a boil. Stir for 2 minutes until the oatmeal mix thickens.",
+          "Split the mix into two halves. Transfer one half to a baking tray lined with baking paper.",
+          "Mix the other half with blueberries and spread it over the base.",
+          "Preheat the oven to 400°F (200°C). Bake for 30 minutes or until golden brown.",
+          "Sprinkle with powdered clove and top with crushed walnuts (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Chocolate Oatmeal With Coconut",
+      "mandatory_ingredients": ["Oat flakes", "cocoa", "coconut flakes"],
+      "optional_ingredients": ["Carob flour"],
+      "recipe": {
+        "ingredients": [
+          "2 cups ~ 7oz ~ 200g oat flakes",
+          "1 tbsp cocoa",
+          "3 tbsps coconut flakes",
+          "Carob flour (optional)"
+        ],
+        "steps": [
+          "Add oat flakes and cocoa powder to a cooking pot. Cover with double the amount of water and mix.",
+          "Bring to a boil and stir for 3 minutes or until it thickens.",
+          "Transfer cooked oatmeal to a plate.",
+          "Top with coconut flakes."
+        ]
+      }
+    },
+    {
+      "title": "Oat Peanut Butter Bars",
+      "mandatory_ingredients": ["Oat flakes", "peanut butter", "maple syrup", "water"],
+      "optional_ingredients": ["Walnuts", "dried cranberries"],
+      "recipe": {
+        "ingredients": [
+          "4 cups ~ 13oz ~ 400g oat flakes",
+          "4 tbsps ~ 80g peanut butter",
+          "2 tbsps ~ 40ml maple syrup",
+          "1 cup ~ 7oz ~ 200ml water",
+          "Crushed walnuts (optional)",
+          "Dried cranberries (optional)"
+        ],
+        "steps": [
+          "Add water, maple syrup and peanut butter to a large saucepan. Whisk together until combined.",
+          "Add oat flakes and mix until combined.",
+          "Transfer the mix to a countertop lined with baking paper. Cover with another sheet and press down.",
+          "Wrap it up and place into the fridge to chill overnight or for at least 4 hours.",
+          "Cut into bars."
+        ]
+      }
+    },
+    {
+      "title": "Quinoa With Apple & Peanut Sauce",
+      "mandatory_ingredients": ["Quinoa", "apples", "peanut butter"],
+      "optional_ingredients": ["Cinnamon"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g quinoa",
+          "2 apples",
+          "2 tbsps peanut butter",
+          "Cinnamon (optional)"
+        ],
+        "steps": [
+          "Rinse quinoa really well until the water runs clear.",
+          "Transfer to a cooking pot. Cover with double the amount of water and bring to a boil.",
+          "Lower heat to low, cover with a lid. Cook for ~15 minutes until tender.",
+          "Transfer cooked quinoa to a plate.",
+          "Add sliced apple.",
+          "Combine peanut butter with water 1:3 ratio and stir until creamy. Drizzle over the quinoa.",
+          "Sprinkle with cinnamon (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Quinoa With Spiced Apple",
+      "mandatory_ingredients": ["Quinoa", "apples", "cinnamon"],
+      "optional_ingredients": ["Nutmeg", "clove"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g quinoa",
+          "2 apples",
+          "1 tbsp cinnamon",
+          "Nutmeg (optional)",
+          "Clove (optional)"
+        ],
+        "steps": [
+          "Rinse quinoa really well.",
+          "Transfer to a cooking pot. Cover with double the amount of water and cook for ~15 minutes.",
+          "Peel and dice the apples. Add to a saucepan with ½ cup water and spices.",
+          "Cook apples for 10 minutes or until water evaporates.",
+          "Transfer cooked quinoa to a plate.",
+          "Top with spiced apples."
+        ]
+      }
+    },
+    {
+      "title": "Quinoa With Yogurt & Orange",
+      "mandatory_ingredients": ["Quinoa", "plain yogurt", "oranges"],
+      "optional_ingredients": ["Walnuts", "cinnamon"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g quinoa",
+          "1 cup ~ 7oz ~ 200ml plain yogurt",
+          "2 oranges",
+          "Walnuts (optional)",
+          "Cinnamon (optional)"
+        ],
+        "steps": [
+          "Rinse quinoa until water runs clear.",
+          "Cook quinoa with double the amount of water for ~15 minutes.",
+          "Transfer cooked quinoa to a plate.",
+          "Add yogurt.",
+          "Add sliced orange.",
+          "Add walnuts and sprinkle with cinnamon (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Sweet Potato Pancakes",
+      "mandatory_ingredients": ["Sweet potatoes", "water or milk", "flour"],
+      "optional_ingredients": ["Baking powder", "yogurt", "raisins", "fresh basil", "nutmeg"],
+      "recipe": {
+        "ingredients": [
+          "3-4 ~ 1lb ~ 480g sweet potatoes",
+          "2 cups ~ 16oz ~ 480ml water or milk",
+          "2 cups ~ 8oz ~ 240g flour",
+          "1 tsp baking powder (optional)",
+          "Yogurt (optional)",
+          "Raisins (optional)",
+          "Fresh basil (optional)",
+          "Nutmeg (optional)"
+        ],
+        "steps": [
+          "Peel and cut sweet potato. Boil for 15 minutes or until soft.",
+          "Drain potatoes. Add milk, flour and baking powder (if using). Mix until smooth.",
+          "Spoon portions onto a baking tray lined with baking paper.",
+          "Preheat oven to 400°F (200°C). Bake for 10 minutes, flip, bake another 10 minutes.",
+          "Garnish with yogurt, fresh basil and raisins (if using). Sprinkle with nutmeg (if using)."
+        ]
+      }
+    },
+    {
+      "title": "White Bean Tomato Toast",
+      "mandatory_ingredients": ["Cooked white beans", "bread", "tomato"],
+      "optional_ingredients": ["Balsamic vinegar", "parsley", "pine nuts"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked white beans",
+          "2 slices of bread",
+          "1 tomato",
+          "Balsamic vinegar (optional)",
+          "Parsley (optional)",
+          "Pine nuts (optional)"
+        ],
+        "steps": [
+          "Toast the bread.",
+          "Season for taste and mash the beans. Spread them on top of the toast.",
+          "Add sliced tomatoes.",
+          "Top with parsley and pine nuts (if using). Drizzle with balsamic vinegar (if using)."
+        ]
+      }
+    }
+  ],
+  "Lunch/Dinner": [
+    {
+      "title": "Avocado Chickpea Tortilla Wrap",
+      "mandatory_ingredients": ["Cooked chickpeas", "tortilla wraps", "avocado"],
+      "optional_ingredients": ["Red onion", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked chickpeas",
+          "2 tortilla wraps",
+          "1 avocado",
+          "Red onion (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Toast tortilla in the oven for 2 minutes.",
+          "Mash avocado and spread on the tortilla.",
+          "Drain and add chickpeas. Season for taste.",
+          "Garnish with red onion and sesame seeds (if using). Fold it up."
+        ]
+      }
+    },
+    {
+      "title": "Black Bean Butternut Squash Enchiladas",
+      "mandatory_ingredients": ["Cooked black beans", "butternut squash", "tortilla wraps", "tomato sauce", "molasses"],
+      "optional_ingredients": ["Black pepper", "cayenne pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked black beans",
+          "1 butternut squash",
+          "2 tortilla wraps",
+          "½ cup ~ 3oz ~ 100ml tomato sauce",
+          "1 tbsp molasses",
+          "½ tbsp black pepper (optional)",
+          "½ tbsp cayenne pepper (optional)"
+        ],
+        "steps": [
+          "Peel and dice butternut squash. Roast at 400°F (200°C) for 10 minutes.",
+          "Cut tortilla into strips and arrange on squash.",
+          "Mix tomato sauce and molasses. Combine with drained beans.",
+          "Add beans to squash and tortilla strips. Bake for 15 minutes.",
+          "Garnish with fresh parsley."
+        ]
+      }
+    },
+    {
+      "title": "Black Beans With Rice",
+      "mandatory_ingredients": ["Cooked black beans", "rice"],
+      "optional_ingredients": ["Parsley", "spring onions", "cumin"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked black beans",
+          "½ cup ~ 100g rice",
+          "Parsley (optional)",
+          "Spring onions (optional)",
+          "Cumin (optional)"
+        ],
+        "steps": [
+          "Rinse rice well. Cook with double the amount of water (~20 minutes for white rice).",
+          "Add cooked rice and drained beans to a plate. Season and mix.",
+          "Garnish with parsley, spring onions and sprinkle with cumin (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Black Beans With Rice & Corn",
+      "mandatory_ingredients": ["Cooked black beans", "rice", "sweetcorn", "avocado"],
+      "optional_ingredients": ["Salsa sauce", "parsley", "cayenne pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked black beans",
+          "½ cup ~ 3oz ~ 100g rice",
+          "½ cup ~ 2oz ~ 70g sweetcorn",
+          "1 avocado",
+          "Salsa sauce (optional)",
+          "Parsley (optional)",
+          "Cayenne pepper (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Add cooked rice and drained beans to a plate. Add sweet corn.",
+          "Add sliced avocado and season for taste.",
+          "Add salsa, top with parsley and sprinkle with cayenne pepper (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Black Bean Stuffed Sweet Potato",
+      "mandatory_ingredients": ["Cooked black beans", "sweet potatoes", "tahini"],
+      "optional_ingredients": ["Parsley", "cumin"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked black beans",
+          "2 sweet potatoes",
+          "2 tbsps tahini",
+          "Parsley (optional)",
+          "Cumin (optional)"
+        ],
+        "steps": [
+          "Peel sweet potato, cut in half and bake at 400°F (200°C) for 30 minutes.",
+          "Make a well in the middle of the potato.",
+          "Add cooked beans and season for taste.",
+          "Top with tahini thinned with water and parsley (if using). Sprinkle with cumin (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Black Bean Tortilla Wrap",
+      "mandatory_ingredients": ["Cooked black beans", "tortilla wraps", "cucumbers", "plain yogurt"],
+      "optional_ingredients": ["Parsley", "cumin", "garlic powder"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked black beans",
+          "2 tortilla wraps",
+          "2 cucumbers",
+          "½ cup ~ 3oz ~ 100ml plain yogurt",
+          "Parsley (optional)",
+          "Cumin (optional)",
+          "Garlic powder (optional)"
+        ],
+        "steps": [
+          "Toast tortilla in the oven for 2 minutes.",
+          "Drain the beans. Fill tortilla with beans and mash them.",
+          "Mix yogurt with cumin and garlic powder (if using) and spread over beans.",
+          "Add diced cucumber, season for taste and fold into a roll.",
+          "Garnish with parsley (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Broccoli With Mushrooms",
+      "mandatory_ingredients": ["Frozen broccoli", "mushrooms", "balsamic vinegar"],
+      "optional_ingredients": ["Soy sauce", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 pack ~ 1lb ~ 500g frozen broccoli",
+          "1 pack ~ 12oz ~ 400g mushrooms",
+          "2 tbsps balsamic vinegar",
+          "Soy sauce (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Clean mushrooms and coat in balsamic vinegar. Arrange on baking tray.",
+          "Roast at 400°F (200°C) for 20 minutes until browning.",
+          "Flip mushrooms, add broccoli florets (can use frozen). Drizzle with soy sauce (if using).",
+          "Roast for another 10 minutes.",
+          "Transfer to plate. Sprinkle with sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Broccoli Stir-Fry",
+      "mandatory_ingredients": ["Fresh broccoli", "carrots", "bell peppers", "sesame oil"],
+      "optional_ingredients": ["Garlic", "spring onions", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 head ~ 1lb ~ 500g fresh broccoli",
+          "2 carrots",
+          "2 bell peppers",
+          "1 tbsp sesame oil",
+          "Garlic (optional)",
+          "Spring onions (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Cut broccoli into florets. Peel carrot and de-seed bell pepper. Cut both into pieces.",
+          "Blanch vegetables in boiling water (carrots 7 min, broccoli 5 min, bell pepper 2 min).",
+          "Drain and run under cold water.",
+          "Add garlic (if using) and sesame oil to frying pan. Set heat to high.",
+          "Add blanched vegetables and stir fry for 2 minutes. Season for taste.",
+          "Transfer to plate. Garnish with spring onions and sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Chickpea Curry with Rice",
+      "mandatory_ingredients": ["Cooked chickpeas", "rice", "onion", "tomato", "milk", "molasses", "curry powder"],
+      "optional_ingredients": ["Parsley"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked chickpeas",
+          "½ cup ~ 3oz ~ 100g rice",
+          "1 onion",
+          "1 tomato",
+          "1 cup ~ 7oz ~ 200ml milk",
+          "½ tbsp molasses",
+          "1 tbsp curry powder",
+          "Parsley (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes for white rice).",
+          "Finely dice onion and tomato. Saute with ½ cup water until water evaporates.",
+          "Combine milk, molasses and curry powder. Add to tomatoes with drained chickpeas. Cook 3-4 minutes.",
+          "Transfer rice to plate. Add chickpea curry.",
+          "Garnish with fresh parsley (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Chickpea Tortilla Wrap",
+      "mandatory_ingredients": ["Cooked chickpeas", "tortilla wraps", "lettuce", "tahini"],
+      "optional_ingredients": ["Garlic", "cayenne pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked chickpeas",
+          "2 tortilla wraps",
+          "1 cup ~ 2oz ~ 60g lettuce",
+          "2 tbsps tahini",
+          "Garlic (optional)",
+          "Cayenne pepper (optional)"
+        ],
+        "steps": [
+          "Drain chickpeas. Add garlic (if using), tahini and ½ cup water. Mash until combined.",
+          "Toast tortilla in oven for 2 minutes. Spread chickpea tahini paste.",
+          "Add chopped lettuce, fold into roll.",
+          "Sprinkle with cayenne pepper (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Eggplant & Green Beans With Oranges",
+      "mandatory_ingredients": ["Eggplants", "frozen green beans", "oranges"],
+      "optional_ingredients": ["White cheese", "pine nuts", "black pepper"],
+      "recipe": {
+        "ingredients": [
+          "3 eggplants",
+          "8oz ~ 250g frozen green beans",
+          "2 oranges",
+          "White cheese (optional)",
+          "Pine nuts (optional)",
+          "Black pepper (optional)"
+        ],
+        "steps": [
+          "Cut eggplant and green beans into pieces. Arrange on baking tray.",
+          "Roast at 400°F (200°C) for 15 minutes until browning.",
+          "Transfer to plate and season for taste.",
+          "Add cut orange. Squeeze some orange juice over.",
+          "Add crumbled white cheese. Top with pine nuts and sprinkle with black pepper (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Eggplant Toast",
+      "mandatory_ingredients": ["Eggplants", "bread", "lettuce", "tomato sauce", "molasses", "smoked paprika"],
+      "optional_ingredients": ["Liquid smoke", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "2 eggplants",
+          "2 slices of bread",
+          "1 cup ~ 2oz ~ 50g lettuce",
+          "½ cup ~ 3oz ~ 100ml tomato sauce",
+          "1 tbsp molasses",
+          "1 tsp smoked paprika",
+          "1 tsp liquid smoke (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Cut eggplant into thin slices lengthwise. Arrange on baking tray.",
+          "Combine tomato sauce, molasses and smoked paprika (add liquid smoke if using). Coat eggplant.",
+          "Roast at 400°F (200°C) for 15-20 minutes until browning.",
+          "Toast the bread.",
+          "Add cut lettuce.",
+          "Add cooked eggplant slices.",
+          "Top with sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Eggplant & Zucchini In Tomato Sauce",
+      "mandatory_ingredients": ["Eggplants", "zucchinis", "onion", "tomato sauce", "molasses"],
+      "optional_ingredients": ["Cinnamon", "fresh basil", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "3 eggplants",
+          "3 zucchinis",
+          "1 onion",
+          "1 cup ~ 7oz ~ 200ml tomato sauce",
+          "1 tbsp molasses",
+          "½ tbsp cinnamon (optional)",
+          "Fresh basil (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Dice eggplant, zucchini and onion. Arrange on baking tray. Season.",
+          "Sprinkle with cinnamon (if using) and cover with tomato sauce mixed with molasses.",
+          "Roast at 400°F (200°C) for 20 minutes until browning.",
+          "Transfer to plate.",
+          "Garnish with fresh basil and sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Kidney Bean Chili",
+      "mandatory_ingredients": ["Cooked kidney beans", "sweetcorn", "bell pepper", "onions", "tomato sauce", "molasses", "chili powder"],
+      "optional_ingredients": ["Parsley"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked kidney beans",
+          "½ cup ~ 3oz ~ 80g sweetcorn",
+          "1 bell pepper",
+          "2 onions",
+          "¼ cup ~ 2oz ~ 50ml tomato sauce",
+          "½ tbsp molasses",
+          "½ tbsp chili powder",
+          "3 cups ~ 18oz ~ 600ml water",
+          "Parsley (optional)"
+        ],
+        "steps": [
+          "Dice onion and green bell pepper.",
+          "Combine all ingredients in large pot. Season for taste.",
+          "Bring to boil, lower heat, cover and simmer for 20 minutes.",
+          "Garnish with fresh parsley (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Lemon Chickpea Rice",
+      "mandatory_ingredients": ["Cooked chickpeas", "rice", "lemon", "tahini"],
+      "optional_ingredients": ["Parsley", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked chickpeas",
+          "½ cup ~ 3oz ~ 100g rice",
+          "1 lemon",
+          "2 tbsps tahini",
+          "Parsley (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Add chickpeas and rice to plate. Season and mix.",
+          "Squeeze lemon into cup. Add tahini to lemon juice and mix until creamy.",
+          "Drizzle over chickpeas and rice.",
+          "Garnish with parsley, lemon slices and sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Lentil Loaf",
+      "mandatory_ingredients": ["Lentils", "oat flakes", "tomato sauce", "molasses"],
+      "optional_ingredients": ["Parsley"],
+      "recipe": {
+        "ingredients": [
+          "2 cups ~ 13oz ~ 400g lentils",
+          "1 cup ~ 2oz ~ 50g oat flakes",
+          "½ cup ~ 3oz ~ 100ml tomato sauce",
+          "1 tbsp molasses",
+          "Parsley (optional)"
+        ],
+        "steps": [
+          "Rinse and cook lentils (~30 minutes).",
+          "Combine cooked lentils with oat flakes, tomato sauce and molasses. Season.",
+          "Shape into rectangle on baking tray. Bake at 400°F (200°C) for 20 minutes.",
+          "Top with remaining sauce. Bake 2 more minutes.",
+          "Cut into pieces. Garnish with parsley (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Mashed Cauliflower",
+      "mandatory_ingredients": ["Cauliflower", "milk"],
+      "optional_ingredients": ["Cashews", "spring onions", "black pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 ~ 1lb ~ 500g cauliflower",
+          "½ cup ~ 3oz ~ 100ml milk",
+          "Cashews (optional)",
+          "Spring onions (optional)",
+          "Black pepper (optional)"
+        ],
+        "steps": [
+          "Separate cauliflower into florets. Boil for 15 minutes until tender. Drain.",
+          "Combine with milk. Season for taste. Mash with fork or blender.",
+          "Transfer to plate.",
+          "Garnish with spring onions and top with cashews (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Mashed Cauliflower With Mushrooms",
+      "mandatory_ingredients": ["Cauliflower", "milk", "mushrooms", "bell pepper", "onion"],
+      "optional_ingredients": ["Ginger powder", "garlic powder", "soy sauce", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 ~ 1lb ~ 500g cauliflower",
+          "½ cup ~ 3oz ~ 100ml milk",
+          "½ pack ~ 7oz ~ 200g mushrooms",
+          "1 bell pepper",
+          "1 onion",
+          "Ginger powder (optional)",
+          "Garlic powder (optional)",
+          "Soy sauce (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Prepare mashed cauliflower as above.",
+          "Cut mushrooms, onion into strips and bell pepper into pieces.",
+          "Saute with ½ cup water and seasonings (if using) until water evaporates.",
+          "Transfer mashed cauliflower to plate.",
+          "Top with mushrooms and peppers. Sprinkle with sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Pasta With Cream Mushrooms",
+      "mandatory_ingredients": ["Pasta", "mushrooms", "milk", "flour"],
+      "optional_ingredients": ["Spring onions"],
+      "recipe": {
+        "ingredients": [
+          "2 cups ~ 6oz ~ 180g pasta",
+          "1 pack ~ 1lb ~ 400g mushrooms",
+          "1 cup ~ 7oz ~ 200ml milk",
+          "2 tbsps flour",
+          "Spring onions (optional)"
+        ],
+        "steps": [
+          "Boil pasta according to package instructions. Drain.",
+          "Add cleaned and cut mushrooms to pot with 1 cup water. Simmer 20 minutes.",
+          "Mix milk with flour and add to mushrooms. Simmer 2 minutes until cream thickens.",
+          "Add cooked pasta. Stir to combine.",
+          "Transfer to plate. Garnish with spring onions (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Pasta With Peas",
+      "mandatory_ingredients": ["Pasta", "frozen peas"],
+      "optional_ingredients": ["Fresh basil", "pine nuts"],
+      "recipe": {
+        "ingredients": [
+          "2 cups ~ 6oz ~ 180g pasta",
+          "2 cups ~ 10oz ~ 320g frozen peas",
+          "Fresh basil (optional)",
+          "Pine nuts (optional)"
+        ],
+        "steps": [
+          "Boil pasta according to package instructions. Drain.",
+          "Transfer to plate.",
+          "Add defrosted peas.",
+          "Garnish with fresh basil and pine nuts (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Pasta With Zucchini & Peas",
+      "mandatory_ingredients": ["Pasta", "frozen peas", "zucchinis"],
+      "optional_ingredients": ["Parsley", "pine nuts"],
+      "recipe": {
+        "ingredients": [
+          "2 cups ~ 6oz ~ 180g pasta",
+          "1 cup ~ 5oz ~ 180g frozen peas",
+          "2 zucchinis",
+          "Parsley (optional)",
+          "Pine nuts (optional)"
+        ],
+        "steps": [
+          "Boil pasta according to package instructions.",
+          "Defrost peas and cut zucchini. Add to boiling pasta 3 minutes before done.",
+          "Drain pasta with zucchini and peas. Transfer to plate.",
+          "Top with pine nuts and garnish with parsley (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Peanut Noodles",
+      "mandatory_ingredients": ["Noodles", "frozen broccoli", "peanut butter", "soy sauce"],
+      "optional_ingredients": ["Spring onions", "sesame seeds", "black pepper", "cayenne pepper"],
+      "recipe": {
+        "ingredients": [
+          "5oz ~ 180g noodles",
+          "1 pack ~ 1lb ~ 500g frozen broccoli",
+          "2 tbsps peanut butter",
+          "1 tbsp soy sauce",
+          "¼ cup ~ 3oz ~ 50ml water",
+          "Spring onions (optional)",
+          "Sesame seeds (optional)",
+          "½ tbsp black pepper (optional)",
+          "½ tbsp cayenne pepper (optional)"
+        ],
+        "steps": [
+          "Boil noodles (~4 minutes). Rinse under cold water and drain.",
+          "Boil broccoli for 5 minutes until bright green. Drain.",
+          "Combine peanut butter, soy sauce and water in frying pan. Simmer until sauce thickens.",
+          "Add broccoli and noodles to sauce. Cook 2 more minutes.",
+          "Transfer to plate. Garnish with spring onions and sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Potatoes With Broccoli",
+      "mandatory_ingredients": ["Potatoes", "frozen broccoli"],
+      "optional_ingredients": ["Cranberries", "walnuts", "balsamic vinegar", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "4 potatoes",
+          "1 pack ~ 1lb ~ 500g frozen broccoli",
+          "Cranberries (optional)",
+          "Walnuts (optional)",
+          "Balsamic vinegar (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Peel and slice potatoes. Arrange on baking tray.",
+          "Roast at 400°F (200°C) for 30 minutes. Turn over.",
+          "Add broccoli florets (can use frozen). Season. Roast another 10 minutes.",
+          "Transfer to plate.",
+          "Add dried cranberries and walnuts (if using).",
+          "Drizzle with balsamic vinegar and sprinkle with sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Potatoes With Eggplant",
+      "mandatory_ingredients": ["Potatoes", "eggplants", "tomato sauce", "molasses"],
+      "optional_ingredients": ["Pine nuts", "fresh basil"],
+      "recipe": {
+        "ingredients": [
+          "4 potatoes",
+          "2 eggplants",
+          "1 cup ~ 7oz ~ 200ml tomato sauce",
+          "1 tbsp molasses",
+          "Pine nuts (optional)",
+          "Fresh basil (optional)"
+        ],
+        "steps": [
+          "Peel and slice potatoes. Roast at 400°F (200°C) for 20 minutes.",
+          "Add sliced eggplant. Season. Roast another 10 minutes. Turn and roast 10 more minutes.",
+          "Combine tomato sauce with molasses. Simmer until reduced to half.",
+          "Transfer potatoes and eggplant to plate.",
+          "Top with tomato sauce, fresh basil and pine nuts (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Potatoes With Mushrooms",
+      "mandatory_ingredients": ["Potatoes", "mushrooms"],
+      "optional_ingredients": ["Plain yogurt", "dried dill", "cayenne pepper"],
+      "recipe": {
+        "ingredients": [
+          "4 potatoes",
+          "1 pack ~ 12oz ~ 400g mushrooms",
+          "Plain yogurt (optional)",
+          "Dried dill (optional)",
+          "Cayenne pepper (optional)"
+        ],
+        "steps": [
+          "Peel and dice potatoes. Roast at 400°F (200°C) for 20 minutes.",
+          "Add peeled and sliced mushrooms. Roast another 10 minutes.",
+          "Season, toss together and roast 10 more minutes until golden brown.",
+          "Transfer to plate.",
+          "Top with yogurt mixed with dried dill (if using). Sprinkle with cayenne pepper (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Mashed Potatoes With Pickles",
+      "mandatory_ingredients": ["Potatoes", "tahini", "pickles"],
+      "optional_ingredients": ["Dried dill", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "4 potatoes",
+          "4 tbsps tahini",
+          "4 pickles",
+          "Dried dill (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Peel and cut potatoes. Boil for 30 minutes until tender. Drain.",
+          "Add tahini and dash of water. Season for taste. Mash.",
+          "Transfer mashed potatoes to plate.",
+          "Add diced pickles.",
+          "Sprinkle with sesame seeds and dill (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Quinoa With Broccoli",
+      "mandatory_ingredients": ["Quinoa", "frozen broccoli", "tahini"],
+      "optional_ingredients": ["Sesame seeds", "lemon"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g quinoa",
+          "1 pack ~ 1lb ~ 500g frozen broccoli",
+          "2 tbsps tahini",
+          "Sesame seeds (optional)",
+          "Lemon (optional)"
+        ],
+        "steps": [
+          "Rinse and cook quinoa (~15 minutes).",
+          "Boil broccoli for 5 minutes until bright green. Drain.",
+          "Transfer cooked quinoa to plate.",
+          "Add broccoli and season for taste.",
+          "Drizzle with tahini thinned with water. Squeeze lemon juice on top (if using).",
+          "Sprinkle with sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Quinoa With Corn & Avocado",
+      "mandatory_ingredients": ["Quinoa", "avocado", "sweetcorn"],
+      "optional_ingredients": ["Parsley", "cayenne pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g quinoa",
+          "1 avocado",
+          "½ cup ~ 3oz ~ 80g sweetcorn",
+          "Parsley (optional)",
+          "Cayenne pepper (optional)"
+        ],
+        "steps": [
+          "Rinse and cook quinoa (~15 minutes).",
+          "Transfer cooked quinoa to plate.",
+          "Add peeled, de-stoned and diced avocado.",
+          "Add sweet corn (boil frozen corn if using). Season for taste.",
+          "Top with fresh parsley and sprinkle with cayenne pepper (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Rice With Beetroot",
+      "mandatory_ingredients": ["Rice", "cooked beetroot", "plain yogurt"],
+      "optional_ingredients": ["Spring onions", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "2 cooked beetroots",
+          "1 cup ~ 7oz ~ 200ml plain yogurt",
+          "Spring onions (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Add rice to plate.",
+          "Cut cooked beetroot into four and nest in middle of rice. Season.",
+          "Top with plain yogurt.",
+          "Garnish with spring onions and sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Rice With Broccoli & Cashews",
+      "mandatory_ingredients": ["Rice", "frozen broccoli", "cashews", "soy sauce", "maple syrup"],
+      "optional_ingredients": ["Garlic powder", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "1 pack ~ 1lb ~ 500g frozen broccoli",
+          "½ cup ~ 2oz ~ 60g cashews",
+          "1 tbsp soy sauce",
+          "1 tbsp maple syrup",
+          "Garlic powder (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Boil broccoli for 5 minutes until bright green. Drain.",
+          "Combine 1 cup water, soy sauce, maple syrup, garlic powder (if using) and cashews. Simmer 2 minutes.",
+          "Add rice and drained broccoli to plate.",
+          "Pour soy sauce and cashews over rice and broccoli.",
+          "Sprinkle with sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Rice With Broccoli & Peas",
+      "mandatory_ingredients": ["Rice", "frozen broccoli", "frozen peas"],
+      "optional_ingredients": ["Parsley", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "1 pack ~ 1lb ~ 500g frozen broccoli",
+          "1 cup ~ 5oz ~ 180g frozen peas",
+          "Parsley (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Boil broccoli for 5 minutes until bright green. Drain.",
+          "Add cooked rice and broccoli to plate.",
+          "Add defrosted peas and season for taste.",
+          "Garnish with fresh parsley and sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Rice With Butternut Squash",
+      "mandatory_ingredients": ["Rice", "butternut squash", "onion"],
+      "optional_ingredients": ["Dried cranberries", "walnuts"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "1 whole ~ 1lb ~ 500g butternut squash",
+          "1 onion",
+          "Dried cranberries (optional)",
+          "Walnuts (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Peel and dice butternut squash and onion. Saute with ½ cup water for 10 minutes.",
+          "Add cooked rice, season and mix. Cook another 2 minutes.",
+          "Transfer to plate.",
+          "Garnish with dried cranberries, walnuts and fresh parsley (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Rice With Cauliflower",
+      "mandatory_ingredients": ["Rice", "cauliflower", "tahini"],
+      "optional_ingredients": ["Spring onions", "hemp hearts"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "1 ~ 1lb ~ 500g cauliflower",
+          "2 tbsps tahini",
+          "Spring onions (optional)",
+          "Hemp hearts (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Separate cauliflower into florets. Boil for 15 minutes until tender. Drain.",
+          "Add cooked rice to plate.",
+          "Add cooked cauliflower and season for taste.",
+          "Drizzle with tahini thinned with water.",
+          "Top with spring onions and hemp hearts (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Rice With Cream Mushrooms",
+      "mandatory_ingredients": ["Rice", "mushrooms", "milk", "onion", "flour"],
+      "optional_ingredients": ["Parsley", "black pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "1 pack ~ 12oz ~ 400g mushrooms",
+          "1 cup ~ 7oz ~ 200ml milk",
+          "1 onion",
+          "2 tbsps flour",
+          "Parsley (optional)",
+          "Black pepper (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Dice mushrooms and onion. Simmer with 1 cup water for 20 minutes.",
+          "Mix milk with flour and add to mushrooms. Simmer 2 minutes until cream thickens.",
+          "Add rice and cream mushrooms to plate.",
+          "Top with fresh parsley and sprinkle with black pepper (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Rice With Peas & Corn",
+      "mandatory_ingredients": ["Rice", "frozen peas", "frozen sweetcorn"],
+      "optional_ingredients": ["Parsley", "cayenne pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "1 cup ~ 5oz ~ 180g frozen peas",
+          "½ cup ~ 3oz ~ 80g frozen sweetcorn",
+          "Parsley (optional)",
+          "Cayenne pepper (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Combine peas and corn in saucepan with ½ cup water. Boil then drain.",
+          "Add rice to plate.",
+          "Add drained corn and peas. Season for taste.",
+          "Garnish with fresh parsley and sprinkle with cayenne pepper (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Rice With Zucchini",
+      "mandatory_ingredients": ["Rice", "zucchinis", "onion"],
+      "optional_ingredients": ["Dill", "pumpkin seeds", "sunflower seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "3 zucchinis",
+          "1 onion",
+          "Dill (optional)",
+          "Pumpkin seeds (optional)",
+          "Sunflower seeds (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Slice zucchini and onion. Roast at 400°F (200°C) for 20 minutes.",
+          "Add cooked rice and roasted vegetables to plate. Season for taste.",
+          "Top with dill, sunflower and pumpkin seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Roasted Butternut Squash With Yogurt",
+      "mandatory_ingredients": ["Butternut squash", "plain yogurt"],
+      "optional_ingredients": ["Spring onions", "pumpkin seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 whole ~ 1lb ~ 500g butternut squash",
+          "1 cup ~ 7oz ~ 200ml plain yogurt",
+          "Spring onions (optional)",
+          "Pumpkin seeds (optional)"
+        ],
+        "steps": [
+          "Peel and dice butternut squash. Roast at 400°F (200°C) for 20 minutes until tender.",
+          "Transfer to plate.",
+          "Top with yogurt.",
+          "Garnish with spring onions and pumpkin seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Spaghetti With Tomato & Eggplant",
+      "mandatory_ingredients": ["Spaghetti", "tomatoes", "eggplants", "molasses"],
+      "optional_ingredients": ["Fresh basil", "cinnamon", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "Box ~ 250g spaghetti",
+          "2 tomatoes",
+          "2 eggplants",
+          "1 tbsp molasses",
+          "Fresh basil (optional)",
+          "Cinnamon (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Boil spaghetti according to package instructions. Drain.",
+          "Combine diced tomato, eggplant, molasses, cinnamon (if using) and 1 cup water.",
+          "Simmer for 30 minutes until water is almost gone.",
+          "Add cooked spaghetti to sauce and mix until coated.",
+          "Transfer to plate.",
+          "Garnish with fresh basil and sprinkle with sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Spinach Rice",
+      "mandatory_ingredients": ["Rice", "frozen spinach"],
+      "optional_ingredients": ["Lemon", "sun-dried tomatoes", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "1 cup ~ 5oz ~ 180g frozen spinach",
+          "Lemon (optional)",
+          "Sun-dried tomatoes (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Rinse rice and spinach. Cook together with double the amount of water (~20 minutes).",
+          "Transfer to plate.",
+          "Add chopped sun-dried tomatoes and drizzle with lemon juice (if using).",
+          "Add extra lemon slices for garnish and sprinkle with sesame seeds (if using)."
+        ]
+      }
+    },
+    {
+      "title": "Sushi Rice",
+      "mandatory_ingredients": ["Rice", "seaweed flakes", "carrot", "cucumber", "rice vinegar"],
+      "optional_ingredients": ["Umeboshi paste", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "1 tbsp seaweed flakes",
+          "1 carrot",
+          "1 cucumber",
+          "2 tbsps rice vinegar",
+          "Umeboshi paste (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Add rice to plate.",
+          "Add seaweed flakes and mix well.",
+          "Use potato peeler to cut cucumber and peeled carrot into strips. Arrange on rice.",
+          "Drizzle with rice vinegar, sprinkle with sesame seeds.",
+          "Add umeboshi paste if using."
+        ]
+      }
+    },
+    {
+      "title": "Sushi Rolls",
+      "mandatory_ingredients": ["Rice", "rice vinegar", "nori sheets", "avocado", "cucumber"],
+      "optional_ingredients": ["Sesame seeds", "soy sauce"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "2 tbsps rice vinegar",
+          "4 nori sheets",
+          "1 avocado",
+          "1 cucumber",
+          "Sesame seeds (optional)",
+          "Soy sauce (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes). Combine with vinegar.",
+          "Quarter cucumber lengthwise, remove seeds, slice into thin strips.",
+          "Cut avocado into slices directly from shell.",
+          "Place rice on nori sheet, leaving ½ inch at top. Flatten rice.",
+          "Place cucumber and avocado strips on rice towards bottom.",
+          "Roll up tightly using mat. Cut into pieces.",
+          "Sprinkle with sesame seeds. Serve with soy sauce."
+        ]
+      }
+    },
+    {
+      "title": "Sweet & Sour Rice",
+      "mandatory_ingredients": ["Rice", "bell peppers", "flour", "rice vinegar", "maple syrup"],
+      "optional_ingredients": ["Spring onions", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "3 bell peppers",
+          "2 tbsps flour",
+          "2 tbsps rice vinegar",
+          "½ cup ~ 4oz ~ 120g maple syrup",
+          "1 cup ~ 7oz ~ 200ml water",
+          "Spring onions (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Clean and cut bell peppers into bite-sized pieces.",
+          "Combine vinegar, maple syrup, flour and water. Pour over peppers.",
+          "Cook for 10 minutes until sauce thickens and reduces.",
+          "Add rice, cook and stir for 2 more minutes. Season.",
+          "Transfer to plate. Garnish with spring onions and sesame seeds."
+        ]
+      }
+    },
+    {
+      "title": "Sweet Potato With Cauliflower",
+      "mandatory_ingredients": ["Sweet potatoes", "cauliflower", "tahini"],
+      "optional_ingredients": ["Cashews", "spring onion", "cumin"],
+      "recipe": {
+        "ingredients": [
+          "2 sweet potatoes",
+          "1 ~ 1lb ~ 500g cauliflower",
+          "2 tbsps tahini",
+          "Cashews (optional)",
+          "Spring onion (optional)",
+          "Cumin (optional)"
+        ],
+        "steps": [
+          "Peel and cut sweet potato. Boil for 15 minutes until soft. Drain.",
+          "Separate cauliflower into florets. Boil for 15 minutes until tender. Drain.",
+          "Transfer to plate.",
+          "Add cooked sweet potatoes and season for taste.",
+          "Drizzle with tahini thinned with water.",
+          "Top with cashews and spring onion. Sprinkle with cumin."
+        ]
+      }
+    },
+    {
+      "title": "Sweet Potato Curry With Rice",
+      "mandatory_ingredients": ["Sweet potatoes", "rice", "frozen spinach", "tomato sauce", "molasses", "milk", "curry powder"],
+      "optional_ingredients": ["Sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "2 sweet potatoes",
+          "½ cup ~ 3oz ~ 100g rice",
+          "½ cup ~ 3oz ~ 100g frozen spinach",
+          "¼ cup ~ 2oz ~ 50ml tomato sauce",
+          "½ tbsp molasses",
+          "1 cup ~ 7oz ~ 200ml milk",
+          "1 tbsp curry powder",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Peel and cut sweet potato. Saute with 1 cup water for 10 minutes until tender. Drain.",
+          "Combine milk, curry powder and tomato paste. Pour over potatoes.",
+          "Add spinach (can use frozen). Cook 2-3 minutes until curry thickens.",
+          "Add rice to one side of plate and curry to the other.",
+          "Sprinkle with sesame seeds."
+        ]
+      }
+    },
+    {
+      "title": "Sweet Potato Tortilla Wrap",
+      "mandatory_ingredients": ["Sweet potatoes", "tortilla wraps", "lettuce"],
+      "optional_ingredients": ["Miso paste", "spring onions", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "2 sweet potatoes",
+          "2 tortilla wraps",
+          "1 cup ~ 2oz ~ 60g lettuce",
+          "Miso paste (optional)",
+          "Spring onions (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Peel and cut sweet potato. Boil for 15 minutes until soft. Drain.",
+          "Toast tortilla in oven for 2 minutes.",
+          "Add cut lettuce.",
+          "Add sweet potato and season for taste.",
+          "Thin miso paste with water if using and drizzle over potatoes.",
+          "Garnish with spring onions and sesame seeds. Fold it up."
+        ]
+      }
+    },
+    {
+      "title": "Tomato Cabbage Rice",
+      "mandatory_ingredients": ["Rice", "cabbage", "tomato sauce", "molasses"],
+      "optional_ingredients": ["Parsley", "pumpkin seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g rice",
+          "½ whole cabbage",
+          "1 cup ~ 7oz ~ 200ml tomato sauce",
+          "1 tbsp molasses",
+          "Parsley (optional)",
+          "Pumpkin seeds (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Cut cabbage into strips.",
+          "Mix water, tomato sauce and molasses. Pour over cabbage. Simmer 10 minutes.",
+          "Add rice, season and toss together. Cook 2 more minutes.",
+          "Transfer to plate. Garnish with parsley and pumpkin seeds."
+        ]
+      }
+    },
+    {
+      "title": "White Beans In Tomato Sauce",
+      "mandatory_ingredients": ["Cooked white beans", "tomatoes", "onion", "molasses"],
+      "optional_ingredients": ["Parsley", "pumpkin seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked white beans",
+          "2 tomatoes",
+          "1 onion",
+          "½ tbsp molasses",
+          "Parsley (optional)",
+          "Pumpkin seeds (optional)"
+        ],
+        "steps": [
+          "Combine diced tomato with molasses and 1 cup water. Simmer 30 minutes until reduced.",
+          "Drain beans and transfer to plate. Cover with tomato sauce.",
+          "Top with onion, parsley and pumpkin seeds."
+        ]
+      }
+    },
+    {
+      "title": "White Bean Tortilla Wrap",
+      "mandatory_ingredients": ["Cooked white beans", "tortilla wraps", "cucumber", "lettuce"],
+      "optional_ingredients": ["Red onion", "cayenne pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked white beans",
+          "2 tortilla wraps",
+          "1 cucumber",
+          "1 cup ~ 2oz ~ 60g lettuce",
+          "Red onion (optional)",
+          "Cayenne pepper (optional)"
+        ],
+        "steps": [
+          "Toast tortillas in oven for 2 minutes.",
+          "Fill each tortilla with beans.",
+          "Add sliced cucumbers and lettuce. Season for taste.",
+          "Top with sliced onions and sprinkle with cayenne pepper."
+        ]
+      }
+    },
+    {
+      "title": "Yellow Lentils Curry With Rice",
+      "mandatory_ingredients": ["Yellow lentils", "rice", "onion", "green pepper", "tomato", "milk", "molasses", "curry powder"],
+      "optional_ingredients": ["Spring onions", "cashew nuts"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g yellow lentils",
+          "½ cup ~ 3oz ~ 100g rice",
+          "1 onion",
+          "1 green pepper",
+          "1 tomato",
+          "1 cup ~ 7oz ~ 200ml milk",
+          "1 tbsp molasses",
+          "1 tbsp curry powder",
+          "Spring onions (optional)",
+          "Cashew nuts (optional)"
+        ],
+        "steps": [
+          "Rinse and cook rice (~20 minutes).",
+          "Combine diced green pepper, onion and tomato with lentils and equal water.",
+          "Cook for 10 minutes until lentils are tender.",
+          "Add milk, molasses and curry powder. Cook 2-3 minutes until thickened.",
+          "Add rice to one side of plate and lentil curry to the other.",
+          "Top with spring onions and cashew nuts."
+        ]
+      }
+    },
+    {
+      "title": "Zucchini With Yogurt Sauce",
+      "mandatory_ingredients": ["Zucchinis", "plain yogurt"],
+      "optional_ingredients": ["Spring onions", "dill", "garlic", "black pepper"],
+      "recipe": {
+        "ingredients": [
+          "8 zucchinis",
+          "1 cup ~ 7oz ~ 200ml plain yogurt",
+          "Spring onions (optional)",
+          "1 tsp dill (optional)",
+          "1 tsp fresh or powdered garlic (optional)",
+          "Black pepper (optional)"
+        ],
+        "steps": [
+          "Cut zucchini into bite-sized pieces. Roast at 400°F (200°C) for 10 minutes.",
+          "Transfer to plate.",
+          "Mix yogurt, dill and garlic to make sauce. Season for taste.",
+          "Place sauce alongside zucchini.",
+          "Garnish zucchini with spring onions and sprinkle with black pepper."
+        ]
+      }
+    }
+  ],
+  "Salads": [
+    {
+      "title": "Beetroot Salad",
+      "mandatory_ingredients": ["Cooked beetroot", "balsamic vinegar", "molasses"],
+      "optional_ingredients": ["White cheese", "parsley", "garlic", "walnuts"],
+      "recipe": {
+        "ingredients": [
+          "3 ~ 7oz ~ 200g cooked beetroot",
+          "2 tbsps balsamic vinegar",
+          "½ tbsp molasses",
+          "White cheese (optional)",
+          "Fresh parsley (optional)",
+          "Garlic (optional)",
+          "Walnuts (optional)"
+        ],
+        "steps": [
+          "Grate cooked beetroot and transfer to plate.",
+          "Combine balsamic vinegar with molasses and garlic (if using).",
+          "Drizzle sauce over beetroot. Crumble white cheese on top.",
+          "Garnish with parsley and walnuts."
+        ]
+      }
+    },
+    {
+      "title": "Black Bean Salad",
+      "mandatory_ingredients": ["Cooked black beans", "tomatoes", "onion"],
+      "optional_ingredients": ["Balsamic vinegar", "pine nuts", "parsley"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked black beans",
+          "2 tomatoes",
+          "1 onion",
+          "Balsamic vinegar (optional)",
+          "Pine nuts (optional)",
+          "Parsley (optional)"
+        ],
+        "steps": [
+          "Drain beans and transfer to plate.",
+          "Add diced tomatoes.",
+          "Add diced onions, season and mix well.",
+          "Add parsley and pine nuts and mix."
+        ]
+      }
+    },
+    {
+      "title": "Broccoli Carrot Salad",
+      "mandatory_ingredients": ["Fresh broccoli", "carrot", "rice vinegar", "maple syrup", "mustard"],
+      "optional_ingredients": ["Nutritional yeast", "garlic powder", "almond flakes", "black pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 head ~ 1lb ~ 500g fresh broccoli",
+          "1 carrot",
+          "1 tbsp rice vinegar",
+          "1 tbsp maple syrup",
+          "1 tbsp mustard",
+          "3 tbsps water",
+          "Nutritional yeast (optional)",
+          "Garlic powder (optional)",
+          "Almond flakes (optional)",
+          "Black pepper (optional)"
+        ],
+        "steps": [
+          "Cut broccoli into bite-sized pieces, drizzle with vinegar and soak in water for 10 minutes. Rinse and drain.",
+          "Transfer to plate.",
+          "Add grated carrots.",
+          "Mix mustard, maple syrup, vinegar and water for dressing. Drizzle and mix well.",
+          "Top with cashews and season with black pepper."
+        ]
+      }
+    },
+    {
+      "title": "Carrot Cucumber Ribbon Salad",
+      "mandatory_ingredients": ["Carrots", "cucumbers", "balsamic vinegar", "molasses"],
+      "optional_ingredients": ["Sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "3 carrots",
+          "2 cucumbers",
+          "1 tbsp balsamic vinegar",
+          "1 tsp molasses",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Use potato peeler to cut carrot and cucumber into ribbons.",
+          "Transfer carrots to plate.",
+          "Place cucumber ribbons on top.",
+          "Combine balsamic vinegar with molasses. Drizzle over vegetables.",
+          "Sprinkle with sesame seeds."
+        ]
+      }
+    },
+    {
+      "title": "Chickpea Salad",
+      "mandatory_ingredients": ["Cooked chickpeas", "tomatoes", "cucumbers", "onion", "balsamic vinegar"],
+      "optional_ingredients": ["Parsley", "black pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked chickpeas",
+          "2 tomatoes",
+          "2 cucumbers",
+          "1 onion",
+          "2 tbsps balsamic vinegar",
+          "Parsley (optional)",
+          "Black pepper (optional)"
+        ],
+        "steps": [
+          "Transfer drained chickpeas to plate.",
+          "Add diced tomatoes.",
+          "Add diced cucumbers.",
+          "Add diced onion and drizzle with balsamic vinegar.",
+          "Season, mix and garnish with parsley."
+        ]
+      }
+    },
+    {
+      "title": "Cucumber Pepper Salad",
+      "mandatory_ingredients": ["Cucumbers", "bell peppers", "balsamic vinegar"],
+      "optional_ingredients": ["Raisins", "sunflower seeds", "olive oil"],
+      "recipe": {
+        "ingredients": [
+          "3 cucumbers",
+          "2 bell peppers",
+          "1 tbsp balsamic vinegar",
+          "Raisins (optional)",
+          "Sunflower seeds (optional)",
+          "Olive oil (optional)"
+        ],
+        "steps": [
+          "Cut cucumbers and red bell peppers into bite-sized pieces.",
+          "Mix together and drizzle with balsamic vinegar and olive oil.",
+          "Season for taste.",
+          "Sprinkle with raisins and sunflower seeds."
+        ]
+      }
+    },
+    {
+      "title": "Lentil Arugula Salad",
+      "mandatory_ingredients": ["Lentils", "fresh arugula", "balsamic vinegar"],
+      "optional_ingredients": ["Sunflower seeds", "pumpkin seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g lentils",
+          "2 cups ~ 2oz ~ 50g fresh arugula",
+          "2 tbsps balsamic vinegar",
+          "Sunflower seeds (optional)",
+          "Pumpkin seeds (optional)"
+        ],
+        "steps": [
+          "Rinse and cook lentils (~30 minutes).",
+          "Wash and dry arugula. Add to plate.",
+          "Add cooked lentils and season for taste.",
+          "Drizzle with balsamic vinegar.",
+          "Top with sunflower and pumpkin seeds."
+        ]
+      }
+    },
+    {
+      "title": "Lentil Red Cabbage Salad",
+      "mandatory_ingredients": ["Lentils", "red cabbage", "carrots", "balsamic vinegar"],
+      "optional_ingredients": ["Sunflower seeds", "spring onions"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g lentils",
+          "2 cups ~ 3oz ~ 100g red cabbage",
+          "2 carrots",
+          "2 tbsps balsamic vinegar",
+          "Sunflower seeds (optional)",
+          "Spring onions (optional)"
+        ],
+        "steps": [
+          "Rinse and cook lentils (~30 minutes).",
+          "Peel and grate carrot. Add to plate.",
+          "Add cut red cabbage and mix.",
+          "Add cooked lentils and season for taste.",
+          "Drizzle with balsamic vinegar.",
+          "Top with sunflower seeds and spring onions."
+        ]
+      }
+    },
+    {
+      "title": "Lettuce Cucumber Salad",
+      "mandatory_ingredients": ["Lettuce", "cucumbers"],
+      "optional_ingredients": ["Olive oil", "sunflower seeds", "chopped walnuts"],
+      "recipe": {
+        "ingredients": [
+          "4 cups ~ 7oz ~ 200g lettuce",
+          "2 cucumbers",
+          "Olive oil (optional)",
+          "Sunflower seeds (optional)",
+          "Chopped walnuts (optional)"
+        ],
+        "steps": [
+          "Wash and cut lettuce. Transfer to plate.",
+          "Cut cucumbers and add to the lettuce.",
+          "Season for taste and mix.",
+          "Drizzle with olive oil.",
+          "Top with chopped walnuts and sunflower seeds."
+        ]
+      }
+    },
+    {
+      "title": "Pasta Salad",
+      "mandatory_ingredients": ["Pasta", "tomatoes", "cucumbers"],
+      "optional_ingredients": ["Balsamic vinegar", "green olives", "oregano"],
+      "recipe": {
+        "ingredients": [
+          "2 cups ~ 6oz ~ 180g pasta",
+          "2 tomatoes",
+          "2 cucumbers",
+          "Balsamic vinegar (optional)",
+          "Green olives (optional)",
+          "Oregano (optional)"
+        ],
+        "steps": [
+          "Boil pasta according to package instructions. Drain.",
+          "Transfer to plate.",
+          "Add diced cucumbers.",
+          "Add diced tomatoes.",
+          "Drizzle with balsamic vinegar and mix well.",
+          "Sprinkle with oregano and top with olives."
+        ]
+      }
+    },
+    {
+      "title": "Quinoa Salad",
+      "mandatory_ingredients": ["Quinoa", "bell peppers", "cucumbers", "balsamic vinegar"],
+      "optional_ingredients": ["Parsley"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g quinoa",
+          "2 bell peppers",
+          "2 cucumbers",
+          "2 tbsps balsamic vinegar",
+          "Parsley (optional)"
+        ],
+        "steps": [
+          "Rinse and cook quinoa (~15 minutes).",
+          "Transfer cooked quinoa to plate.",
+          "Add diced cucumber.",
+          "Add diced bell peppers.",
+          "Season for taste and mix.",
+          "Drizzle with balsamic vinegar and garnish with parsley."
+        ]
+      }
+    },
+    {
+      "title": "Red Cabbage Carrot Salad",
+      "mandatory_ingredients": ["Red cabbage", "carrots", "balsamic vinegar"],
+      "optional_ingredients": ["Cashews"],
+      "recipe": {
+        "ingredients": [
+          "2 cups ~ 3oz ~ 100g red cabbage",
+          "2 carrots",
+          "2 tbsps balsamic vinegar",
+          "Cashews (optional)"
+        ],
+        "steps": [
+          "Cut red cabbage into strips and transfer to plate.",
+          "Peel and grate carrots and add to cabbage.",
+          "Season for taste and mix.",
+          "Drizzle with balsamic vinegar and top with cashews."
+        ]
+      }
+    },
+    {
+      "title": "Tomato Cucumber Salad",
+      "mandatory_ingredients": ["Tomatoes", "cucumbers"],
+      "optional_ingredients": ["Olives", "olive oil", "oregano"],
+      "recipe": {
+        "ingredients": [
+          "4 tomatoes",
+          "4 cucumbers",
+          "Olives (optional)",
+          "Olive oil (optional)",
+          "Oregano (optional)"
+        ],
+        "steps": [
+          "Cut cucumbers and tomatoes into bite-sized pieces.",
+          "Mix together and drizzle with olive oil.",
+          "Season for taste.",
+          "Top with olives and sprinkle with oregano."
+        ]
+      }
+    },
+    {
+      "title": "White Bean Salad",
+      "mandatory_ingredients": ["Cooked white beans", "tomatoes", "onion", "balsamic vinegar", "molasses"],
+      "optional_ingredients": ["Pine nuts", "parsley"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked white beans",
+          "2 tomatoes",
+          "1 onion",
+          "2 tbsps balsamic vinegar",
+          "1 tsp molasses",
+          "Pine nuts (optional)",
+          "Parsley (optional)"
+        ],
+        "steps": [
+          "Transfer drained beans to plate.",
+          "Dice tomato and onion and add to beans.",
+          "Mix balsamic vinegar with molasses for dressing. Drizzle and mix well.",
+          "Top with pine nuts and garnish with parsley."
+        ]
+      }
+    }
+  ],
+  "Soups": [
+    {
+      "title": "Beetroot Soup",
+      "mandatory_ingredients": ["Cabbage", "cooked beetroot", "potatoes", "onion", "tomato sauce", "molasses"],
+      "optional_ingredients": ["Sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "½ ~ 1lb ~ 250g cabbage",
+          "3 ~ 7oz ~ 200g cooked beetroot",
+          "2 potatoes",
+          "1 onion",
+          "¼ cup ~ 2oz ~ 50ml tomato sauce",
+          "½ tbsp molasses",
+          "3 cup ~ 18oz ~ 600ml water",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Clean and dice onion. Slice cabbage and grate beetroot.",
+          "Add all ingredients to large pot, cover with water.",
+          "Bring to boil, lower heat, cover and simmer for 30-45 minutes.",
+          "Garnish with sesame seeds."
+        ]
+      }
+    },
+    {
+      "title": "Black Bean Soup",
+      "mandatory_ingredients": ["Cooked black beans", "onions", "tomato sauce", "molasses"],
+      "optional_ingredients": ["Avocado", "parsley", "black pepper", "cayenne pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked black beans",
+          "2 onions",
+          "½ cup ~ 2oz ~ 50ml tomato sauce",
+          "½ tbsp molasses",
+          "2 cups ~ 12oz ~ 400ml water",
+          "Avocado (optional)",
+          "Parsley (optional)",
+          "½ tbsp black pepper (optional)",
+          "½ tbsp cayenne pepper (optional)"
+        ],
+        "steps": [
+          "Dice onion. Combine all ingredients in pot. Add cayenne if using.",
+          "Bring to boil, lower heat, cover and simmer for 20 minutes.",
+          "Blend some or all of soup if desired.",
+          "Garnish with diced avocado and parsley."
+        ]
+      }
+    },
+    {
+      "title": "Broccoli Soup",
+      "mandatory_ingredients": ["Frozen broccoli", "bell peppers", "coconut milk", "tomato sauce", "molasses", "curry powder"],
+      "optional_ingredients": ["Sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "1 pack ~ 1lb ~ 500g frozen broccoli",
+          "2 bell peppers",
+          "1 cup ~ 7oz ~ 200ml coconut milk",
+          "¼ cup ~ 2oz ~ 50ml tomato sauce",
+          "½ tbsp molasses",
+          "1 tbsp curry powder",
+          "2 cups ~ 12oz ~ 400ml water",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Cut bell pepper into strips and broccoli into pieces.",
+          "Combine all ingredients except coconut milk in pot.",
+          "Bring to boil, lower heat, cover and simmer for 5 minutes.",
+          "Add coconut milk and stir. Cook 2 more minutes.",
+          "Garnish with sesame seeds."
+        ]
+      }
+    },
+    {
+      "title": "Cabbage Soup",
+      "mandatory_ingredients": ["Cabbage", "tomatoes", "onion", "tomato sauce", "molasses"],
+      "optional_ingredients": ["Garlic"],
+      "recipe": {
+        "ingredients": [
+          "½ ~ 1lb ~ 250g cabbage",
+          "2 tomatoes",
+          "1 onion",
+          "¼ cup ~ 2oz ~ 50ml tomato sauce",
+          "½ tbsp molasses (optional)",
+          "3 cups ~ 18oz ~ 600ml water",
+          "Garlic clove (optional)"
+        ],
+        "steps": [
+          "Cut cabbage into strips, dice tomato, onion and garlic.",
+          "Add all ingredients to pot, cover with water.",
+          "Bring to boil, lower heat, cover and simmer for 20 minutes."
+        ]
+      }
+    },
+    {
+      "title": "Lentil Soup",
+      "mandatory_ingredients": ["Lentils", "onion", "tomato sauce", "molasses"],
+      "optional_ingredients": ["Bay leaves", "soy sauce", "balsamic vinegar"],
+      "recipe": {
+        "ingredients": [
+          "1 cup ~ 7oz ~ 200g lentils",
+          "1 onion",
+          "¼ cup ~ 2oz ~ 50ml tomato sauce",
+          "½ tbsp molasses",
+          "3 cups ~ 18oz ~ 600ml water",
+          "2 bay leaves (optional)",
+          "Soy sauce (optional)",
+          "Balsamic vinegar (optional)"
+        ],
+        "steps": [
+          "Rinse lentils. Clean and dice onion.",
+          "Add all ingredients to pot, cover with water.",
+          "Bring to boil, lower heat, cover and simmer for 30 minutes.",
+          "Serve with dash of balsamic vinegar."
+        ]
+      }
+    },
+    {
+      "title": "Miso Noodle Soup",
+      "mandatory_ingredients": ["Noodles", "seaweed flakes", "miso paste"],
+      "optional_ingredients": ["Spring onions", "sesame seeds"],
+      "recipe": {
+        "ingredients": [
+          "5oz ~ 180g noodles",
+          "1 tbsp seaweed flakes",
+          "1 tbsp miso paste",
+          "3 cups ~ 18oz ~ 600ml water",
+          "Spring onions (optional)",
+          "Sesame seeds (optional)"
+        ],
+        "steps": [
+          "Boil noodles (~4 minutes). Drain.",
+          "In separate pot, bring water to boil and add seaweed flakes. Simmer 10 minutes.",
+          "Remove from heat, add miso paste and whisk until dissolved.",
+          "Transfer to bowl.",
+          "Add drained noodles.",
+          "Garnish with spring onions and sesame seeds."
+        ]
+      }
+    },
+    {
+      "title": "Mushroom Soup",
+      "mandatory_ingredients": ["Mushrooms", "onion", "milk", "flour"],
+      "optional_ingredients": ["Thyme", "black pepper"],
+      "recipe": {
+        "ingredients": [
+          "1 pack ~ 12oz ~ 400g mushrooms",
+          "1 onion",
+          "1 cup ~ 7oz ~ 200ml milk",
+          "2 tbsps flour",
+          "3 cups ~ 18oz ~ 600ml water",
+          "Fresh or dried thyme (optional)",
+          "Black pepper (optional)"
+        ],
+        "steps": [
+          "Add diced mushrooms, onion and thyme to pot with water. Bring to boil.",
+          "Reduce heat, season and stir. Cover and simmer for 20 minutes.",
+          "Mix milk with flour and add to mushrooms. Simmer 2 minutes until thickened.",
+          "Blend if desired.",
+          "Sprinkle with black pepper and garnish with thyme."
+        ]
+      }
+    },
+    {
+      "title": "Potato & Leek Soup",
+      "mandatory_ingredients": ["Potatoes", "leeks"],
+      "optional_ingredients": ["Bay leaves"],
+      "recipe": {
+        "ingredients": [
+          "4 potatoes",
+          "2 leeks",
+          "3 cups ~ 18oz ~ 600ml water",
+          "2 bay leaves (optional)"
+        ],
+        "steps": [
+          "Clean and finely dice potatoes and leek.",
+          "Add to pot with water and bay leaves if using.",
+          "Bring to boil, lower heat, cover and simmer for 30 minutes.",
+          "Remove bay leaves. Garnish with spring onions."
+        ]
+      }
+    },
+    {
+      "title": "Tomato Pasta Soup",
+      "mandatory_ingredients": ["Tomatoes", "onion", "molasses", "pasta"],
+      "optional_ingredients": ["Heavy cream", "parsley"],
+      "recipe": {
+        "ingredients": [
+          "3 tomatoes",
+          "1 onion",
+          "1 tbsp molasses",
+          "2 cups ~ 6oz ~ 180g pasta",
+          "3 cups ~ 16oz ~ 600ml water",
+          "Heavy cream (optional)",
+          "Parsley (optional)"
+        ],
+        "steps": [
+          "Dice tomato and onion. Add to pot with molasses and water.",
+          "Bring to boil, lower heat, cover and simmer for 20 minutes.",
+          "Add pasta and stir. Cook another 10 minutes.",
+          "Garnish with heavy cream and parsley."
+        ]
+      }
+    },
+    {
+      "title": "White Bean Soup",
+      "mandatory_ingredients": ["Cooked white beans", "carrots", "onion", "tomato sauce", "molasses"],
+      "optional_ingredients": ["Rosemary"],
+      "recipe": {
+        "ingredients": [
+          "1 can ~ 8oz ~ 240g cooked white beans",
+          "2 carrots",
+          "1 onion",
+          "¼ cup ~ 2oz ~ 50ml tomato sauce",
+          "½ tbsp molasses",
+          "2 cups ~ 12oz ~ 400ml water",
+          "Fresh or dried rosemary (optional)"
+        ],
+        "steps": [
+          "Finely dice onion and carrots.",
+          "Combine all ingredients in pot. Add rosemary if using.",
+          "Bring to boil, lower heat, cover and simmer for 30-45 minutes.",
+          "Blend some or all of soup if desired.",
+          "Garnish with rosemary."
+        ]
+      }
+    },
+    {
+      "title": "Zucchini Soup",
+      "mandatory_ingredients": ["Zucchinis", "frozen peas", "onion", "carrot"],
+      "optional_ingredients": ["Dried dill"],
+      "recipe": {
+        "ingredients": [
+          "4 zucchinis",
+          "1 cup ~ 5oz ~ 160ml frozen peas",
+          "1 onion",
+          "1 carrot",
+          "2 cups ~ 12oz ~ 400ml water",
+          "Dried dill (optional)"
+        ],
+        "steps": [
+          "Dice zucchini and onions, peel and grate carrot.",
+          "Add all ingredients to pot, cover with water.",
+          "Bring to boil, lower heat, cover and simmer for 30 minutes."
+        ]
+      }
+    }
+  ]
+}
