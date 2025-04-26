@@ -2,8 +2,15 @@
   "Breakfast": [
     {
       "title": "Amaranth With Yogurt & Kiwifruit",
-      "mandatory_ingredients": ["Amaranth", "plain yogurt", "kiwifruit"],
-      "optional_ingredients": ["Almonds", "nutmeg"],
+      "mandatory_ingredients": [
+        "Amaranth",
+        "plain yogurt",
+        "kiwifruit"
+      ],
+      "optional_ingredients": [
+        "Almonds",
+        "nutmeg"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g amaranth",
@@ -24,8 +31,15 @@
     },
     {
       "title": "Amaranth With Yogurt & Pear",
-      "mandatory_ingredients": ["Amaranth", "plain yogurt", "pears"],
-      "optional_ingredients": ["Cocoa", "carob flour"],
+      "mandatory_ingredients": [
+        "Amaranth",
+        "plain yogurt",
+        "pears"
+      ],
+      "optional_ingredients": [
+        "Cocoa",
+        "carob flour"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g amaranth",
@@ -45,8 +59,14 @@
     },
     {
       "title": "Amaranth With Yogurt & Strawberries",
-      "mandatory_ingredients": ["Amaranth", "plain yogurt", "strawberries"],
-      "optional_ingredients": ["Hemp hearts"],
+      "mandatory_ingredients": [
+        "Amaranth",
+        "plain yogurt",
+        "strawberries"
+      ],
+      "optional_ingredients": [
+        "Hemp hearts"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g amaranth",
@@ -66,8 +86,15 @@
     },
     {
       "title": "Apple With Orange Fruit Salad",
-      "mandatory_ingredients": ["Apples", "oranges", "bananas"],
-      "optional_ingredients": ["Hazelnuts", "cinnamon"],
+      "mandatory_ingredients": [
+        "Apples",
+        "oranges",
+        "bananas"
+      ],
+      "optional_ingredients": [
+        "Hazelnuts",
+        "cinnamon"
+      ],
       "recipe": {
         "ingredients": [
           "2 apples",
@@ -85,8 +112,14 @@
     },
     {
       "title": "Apple Peanut Butter Toast",
-      "mandatory_ingredients": ["Bread", "peanut butter", "apple"],
-      "optional_ingredients": ["Cinnamon"],
+      "mandatory_ingredients": [
+        "Bread",
+        "peanut butter",
+        "apple"
+      ],
+      "optional_ingredients": [
+        "Cinnamon"
+      ],
       "recipe": {
         "ingredients": [
           "2 slices of bread",
@@ -104,8 +137,15 @@
     },
     {
       "title": "Avocado Mushroom Toast",
-      "mandatory_ingredients": ["Cooked mushrooms", "bread", "avocado"],
-      "optional_ingredients": ["Spring onions", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Cooked mushrooms",
+        "bread",
+        "avocado"
+      ],
+      "optional_ingredients": [
+        "Spring onions",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 7oz ~ 200g cooked mushrooms",
@@ -126,8 +166,16 @@
     },
     {
       "title": "Avocado Tomato Toast",
-      "mandatory_ingredients": ["Bread", "avocado", "tomato"],
-      "optional_ingredients": ["Balsamic vinegar", "parsley", "pine nuts"],
+      "mandatory_ingredients": [
+        "Bread",
+        "avocado",
+        "tomato"
+      ],
+      "optional_ingredients": [
+        "Balsamic vinegar",
+        "parsley",
+        "pine nuts"
+      ],
       "recipe": {
         "ingredients": [
           "2 slices of bread",
@@ -147,8 +195,14 @@
     },
     {
       "title": "Banana Peanut Butter Rolls",
-      "mandatory_ingredients": ["Tortilla wraps", "bananas", "peanut butter"],
-      "optional_ingredients": ["Cinnamon"],
+      "mandatory_ingredients": [
+        "Tortilla wraps",
+        "bananas",
+        "peanut butter"
+      ],
+      "optional_ingredients": [
+        "Cinnamon"
+      ],
       "recipe": {
         "ingredients": [
           "2 tortilla wraps",
@@ -167,8 +221,14 @@
     },
     {
       "title": "Banana Toast",
-      "mandatory_ingredients": ["Bread", "bananas"],
-      "optional_ingredients": ["Walnuts", "cinnamon"],
+      "mandatory_ingredients": [
+        "Bread",
+        "bananas"
+      ],
+      "optional_ingredients": [
+        "Walnuts",
+        "cinnamon"
+      ],
       "recipe": {
         "ingredients": [
           "2 slices of bread",
@@ -186,8 +246,15 @@
     },
     {
       "title": "Black Bean Avocado Toast",
-      "mandatory_ingredients": ["Cooked black beans", "bread", "avocado"],
-      "optional_ingredients": ["Parsley", "hemp hearts"],
+      "mandatory_ingredients": [
+        "Cooked black beans",
+        "bread",
+        "avocado"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "hemp hearts"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked black beans",
@@ -206,8 +273,17 @@
     },
     {
       "title": "Black Bean Brownies",
-      "mandatory_ingredients": ["Cooked black beans", "oat flakes", "milk", "bananas", "cocoa powder"],
-      "optional_ingredients": ["Maple syrup", "chocolate protein powder"],
+      "mandatory_ingredients": [
+        "Cooked black beans",
+        "oat flakes",
+        "milk",
+        "bananas",
+        "cocoa powder"
+      ],
+      "optional_ingredients": [
+        "Maple syrup",
+        "chocolate protein powder"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked black beans",
@@ -229,8 +305,16 @@
     },
     {
       "title": "Chickpea Cucumber Toast",
-      "mandatory_ingredients": ["Cooked chickpeas", "bread", "cucumbers", "tahini"],
-      "optional_ingredients": ["Garlic", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Cooked chickpeas",
+        "bread",
+        "cucumbers",
+        "tahini"
+      ],
+      "optional_ingredients": [
+        "Garlic",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked chickpeas",
@@ -251,8 +335,17 @@
     },
     {
       "title": "Granola Yogurt",
-      "mandatory_ingredients": ["Rolled oats", "plain yogurt", "butter"],
-      "optional_ingredients": ["Sunflower seeds", "coconut flakes", "cranberries", "hazelnuts"],
+      "mandatory_ingredients": [
+        "Rolled oats",
+        "plain yogurt",
+        "butter"
+      ],
+      "optional_ingredients": [
+        "Sunflower seeds",
+        "coconut flakes",
+        "cranberries",
+        "hazelnuts"
+      ],
       "recipe": {
         "ingredients": [
           "2 cups ~ 7oz ~ 200g rolled oats",
@@ -276,8 +369,15 @@
   "Lunch/Dinner": [
     {
       "title": "Oatmeal With Apple & Raisins",
-      "mandatory_ingredients": ["Oat flakes", "apples", "raisins"],
-      "optional_ingredients": ["Cinnamon", "nutmeg"],
+      "mandatory_ingredients": [
+        "Oat flakes",
+        "apples",
+        "raisins"
+      ],
+      "optional_ingredients": [
+        "Cinnamon",
+        "nutmeg"
+      ],
       "recipe": {
         "ingredients": [
           "2 cups ~ 7oz ~ 200g oat flakes",
@@ -297,8 +397,14 @@
     },
     {
       "title": "Oatmeal With Banana",
-      "mandatory_ingredients": ["Oat flakes", "bananas"],
-      "optional_ingredients": ["Walnuts", "cinnamon"],
+      "mandatory_ingredients": [
+        "Oat flakes",
+        "bananas"
+      ],
+      "optional_ingredients": [
+        "Walnuts",
+        "cinnamon"
+      ],
       "recipe": {
         "ingredients": [
           "2 cups ~ 7oz ~ 200g oat flakes",
@@ -317,8 +423,15 @@
     },
     {
       "title": "Oatmeal Blueberry Bake",
-      "mandatory_ingredients": ["Oat flakes", "frozen blueberries"],
-      "optional_ingredients": ["Maple syrup", "walnuts", "powdered clove"],
+      "mandatory_ingredients": [
+        "Oat flakes",
+        "frozen blueberries"
+      ],
+      "optional_ingredients": [
+        "Maple syrup",
+        "walnuts",
+        "powdered clove"
+      ],
       "recipe": {
         "ingredients": [
           "2 cups ~ 7oz ~ 200g oat flakes",
@@ -339,8 +452,14 @@
     },
     {
       "title": "Chocolate Oatmeal With Coconut",
-      "mandatory_ingredients": ["Oat flakes", "cocoa", "coconut flakes"],
-      "optional_ingredients": ["Carob flour"],
+      "mandatory_ingredients": [
+        "Oat flakes",
+        "cocoa",
+        "coconut flakes"
+      ],
+      "optional_ingredients": [
+        "Carob flour"
+      ],
       "recipe": {
         "ingredients": [
           "2 cups ~ 7oz ~ 200g oat flakes",
@@ -358,8 +477,16 @@
     },
     {
       "title": "Oat Peanut Butter Bars",
-      "mandatory_ingredients": ["Oat flakes", "peanut butter", "maple syrup", "water"],
-      "optional_ingredients": ["Walnuts", "dried cranberries"],
+      "mandatory_ingredients": [
+        "Oat flakes",
+        "peanut butter",
+        "maple syrup",
+        "water"
+      ],
+      "optional_ingredients": [
+        "Walnuts",
+        "dried cranberries"
+      ],
       "recipe": {
         "ingredients": [
           "4 cups ~ 13oz ~ 400g oat flakes",
@@ -380,8 +507,14 @@
     },
     {
       "title": "Quinoa With Apple & Peanut Sauce",
-      "mandatory_ingredients": ["Quinoa", "apples", "peanut butter"],
-      "optional_ingredients": ["Cinnamon"],
+      "mandatory_ingredients": [
+        "Quinoa",
+        "apples",
+        "peanut butter"
+      ],
+      "optional_ingredients": [
+        "Cinnamon"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g quinoa",
@@ -402,8 +535,15 @@
     },
     {
       "title": "Quinoa With Spiced Apple",
-      "mandatory_ingredients": ["Quinoa", "apples", "cinnamon"],
-      "optional_ingredients": ["Nutmeg", "clove"],
+      "mandatory_ingredients": [
+        "Quinoa",
+        "apples",
+        "cinnamon"
+      ],
+      "optional_ingredients": [
+        "Nutmeg",
+        "clove"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g quinoa",
@@ -424,8 +564,15 @@
     },
     {
       "title": "Quinoa With Yogurt & Orange",
-      "mandatory_ingredients": ["Quinoa", "plain yogurt", "oranges"],
-      "optional_ingredients": ["Walnuts", "cinnamon"],
+      "mandatory_ingredients": [
+        "Quinoa",
+        "plain yogurt",
+        "oranges"
+      ],
+      "optional_ingredients": [
+        "Walnuts",
+        "cinnamon"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g quinoa",
@@ -446,8 +593,18 @@
     },
     {
       "title": "Sweet Potato Pancakes",
-      "mandatory_ingredients": ["Sweet potatoes", "water or milk", "flour"],
-      "optional_ingredients": ["Baking powder", "yogurt", "raisins", "fresh basil", "nutmeg"],
+      "mandatory_ingredients": [
+        "Sweet potatoes",
+        "water or milk",
+        "flour"
+      ],
+      "optional_ingredients": [
+        "Baking powder",
+        "yogurt",
+        "raisins",
+        "fresh basil",
+        "nutmeg"
+      ],
       "recipe": {
         "ingredients": [
           "3-4 ~ 1lb ~ 480g sweet potatoes",
@@ -470,8 +627,16 @@
     },
     {
       "title": "White Bean Tomato Toast",
-      "mandatory_ingredients": ["Cooked white beans", "bread", "tomato"],
-      "optional_ingredients": ["Balsamic vinegar", "parsley", "pine nuts"],
+      "mandatory_ingredients": [
+        "Cooked white beans",
+        "bread",
+        "tomato"
+      ],
+      "optional_ingredients": [
+        "Balsamic vinegar",
+        "parsley",
+        "pine nuts"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked white beans",
@@ -491,8 +656,15 @@
     },
     {
       "title": "Avocado Chickpea Tortilla Wrap",
-      "mandatory_ingredients": ["Cooked chickpeas", "tortilla wraps", "avocado"],
-      "optional_ingredients": ["Red onion", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Cooked chickpeas",
+        "tortilla wraps",
+        "avocado"
+      ],
+      "optional_ingredients": [
+        "Red onion",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked chickpeas",
@@ -511,8 +683,17 @@
     },
     {
       "title": "Black Bean Butternut Squash Enchiladas",
-      "mandatory_ingredients": ["Cooked black beans", "butternut squash", "tortilla wraps", "tomato sauce", "molasses"],
-      "optional_ingredients": ["Black pepper", "cayenne pepper"],
+      "mandatory_ingredients": [
+        "Cooked black beans",
+        "butternut squash",
+        "tortilla wraps",
+        "tomato sauce",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Black pepper",
+        "cayenne pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked black beans",
@@ -534,8 +715,15 @@
     },
     {
       "title": "Black Beans With Rice",
-      "mandatory_ingredients": ["Cooked black beans", "rice"],
-      "optional_ingredients": ["Parsley", "spring onions", "cumin"],
+      "mandatory_ingredients": [
+        "Cooked black beans",
+        "rice"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "spring onions",
+        "cumin"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked black beans",
@@ -553,8 +741,17 @@
     },
     {
       "title": "Black Beans With Rice & Corn",
-      "mandatory_ingredients": ["Cooked black beans", "rice", "sweetcorn", "avocado"],
-      "optional_ingredients": ["Salsa sauce", "parsley", "cayenne pepper"],
+      "mandatory_ingredients": [
+        "Cooked black beans",
+        "rice",
+        "sweetcorn",
+        "avocado"
+      ],
+      "optional_ingredients": [
+        "Salsa sauce",
+        "parsley",
+        "cayenne pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked black beans",
@@ -575,8 +772,15 @@
     },
     {
       "title": "Black Bean Stuffed Sweet Potato",
-      "mandatory_ingredients": ["Cooked black beans", "sweet potatoes", "tahini"],
-      "optional_ingredients": ["Parsley", "cumin"],
+      "mandatory_ingredients": [
+        "Cooked black beans",
+        "sweet potatoes",
+        "tahini"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "cumin"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked black beans",
@@ -595,8 +799,17 @@
     },
     {
       "title": "Black Bean Tortilla Wrap",
-      "mandatory_ingredients": ["Cooked black beans", "tortilla wraps", "cucumbers", "plain yogurt"],
-      "optional_ingredients": ["Parsley", "cumin", "garlic powder"],
+      "mandatory_ingredients": [
+        "Cooked black beans",
+        "tortilla wraps",
+        "cucumbers",
+        "plain yogurt"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "cumin",
+        "garlic powder"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked black beans",
@@ -618,8 +831,15 @@
     },
     {
       "title": "Broccoli With Mushrooms",
-      "mandatory_ingredients": ["Frozen broccoli", "mushrooms", "balsamic vinegar"],
-      "optional_ingredients": ["Soy sauce", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Frozen broccoli",
+        "mushrooms",
+        "balsamic vinegar"
+      ],
+      "optional_ingredients": [
+        "Soy sauce",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 pack ~ 1lb ~ 500g frozen broccoli",
@@ -639,8 +859,17 @@
     },
     {
       "title": "Broccoli Stir-Fry",
-      "mandatory_ingredients": ["Fresh broccoli", "carrots", "bell peppers", "sesame oil"],
-      "optional_ingredients": ["Garlic", "spring onions", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Fresh broccoli",
+        "carrots",
+        "bell peppers",
+        "sesame oil"
+      ],
+      "optional_ingredients": [
+        "Garlic",
+        "spring onions",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 head ~ 1lb ~ 500g fresh broccoli",
@@ -663,8 +892,18 @@
     },
     {
       "title": "Chickpea Curry with Rice",
-      "mandatory_ingredients": ["Cooked chickpeas", "rice", "onion", "tomato", "milk", "molasses", "curry powder"],
-      "optional_ingredients": ["Parsley"],
+      "mandatory_ingredients": [
+        "Cooked chickpeas",
+        "rice",
+        "onion",
+        "tomato",
+        "milk",
+        "molasses",
+        "curry powder"
+      ],
+      "optional_ingredients": [
+        "Parsley"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked chickpeas",
@@ -687,8 +926,16 @@
     },
     {
       "title": "Chickpea Tortilla Wrap",
-      "mandatory_ingredients": ["Cooked chickpeas", "tortilla wraps", "lettuce", "tahini"],
-      "optional_ingredients": ["Garlic", "cayenne pepper"],
+      "mandatory_ingredients": [
+        "Cooked chickpeas",
+        "tortilla wraps",
+        "lettuce",
+        "tahini"
+      ],
+      "optional_ingredients": [
+        "Garlic",
+        "cayenne pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked chickpeas",
@@ -708,8 +955,16 @@
     },
     {
       "title": "Eggplant & Green Beans With Oranges",
-      "mandatory_ingredients": ["Eggplants", "frozen green beans", "oranges"],
-      "optional_ingredients": ["White cheese", "pine nuts", "black pepper"],
+      "mandatory_ingredients": [
+        "Eggplants",
+        "frozen green beans",
+        "oranges"
+      ],
+      "optional_ingredients": [
+        "White cheese",
+        "pine nuts",
+        "black pepper"
+      ],
       "recipe": {
         "ingredients": [
           "3 eggplants",
@@ -730,8 +985,18 @@
     },
     {
       "title": "Eggplant Toast",
-      "mandatory_ingredients": ["Eggplants", "bread", "lettuce", "tomato sauce", "molasses", "smoked paprika"],
-      "optional_ingredients": ["Liquid smoke", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Eggplants",
+        "bread",
+        "lettuce",
+        "tomato sauce",
+        "molasses",
+        "smoked paprika"
+      ],
+      "optional_ingredients": [
+        "Liquid smoke",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "2 eggplants",
@@ -756,8 +1021,18 @@
     },
     {
       "title": "Eggplant & Zucchini In Tomato Sauce",
-      "mandatory_ingredients": ["Eggplants", "zucchinis", "onion", "tomato sauce", "molasses"],
-      "optional_ingredients": ["Cinnamon", "fresh basil", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Eggplants",
+        "zucchinis",
+        "onion",
+        "tomato sauce",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Cinnamon",
+        "fresh basil",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "3 eggplants",
@@ -780,8 +1055,18 @@
     },
     {
       "title": "Kidney Bean Chili",
-      "mandatory_ingredients": ["Cooked kidney beans", "sweetcorn", "bell pepper", "onions", "tomato sauce", "molasses", "chili powder"],
-      "optional_ingredients": ["Parsley"],
+      "mandatory_ingredients": [
+        "Cooked kidney beans",
+        "sweetcorn",
+        "bell pepper",
+        "onions",
+        "tomato sauce",
+        "molasses",
+        "chili powder"
+      ],
+      "optional_ingredients": [
+        "Parsley"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked kidney beans",
@@ -804,8 +1089,16 @@
     },
     {
       "title": "Lemon Chickpea Rice",
-      "mandatory_ingredients": ["Cooked chickpeas", "rice", "lemon", "tahini"],
-      "optional_ingredients": ["Parsley", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Cooked chickpeas",
+        "rice",
+        "lemon",
+        "tahini"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked chickpeas",
@@ -826,8 +1119,15 @@
     },
     {
       "title": "Lentil Loaf",
-      "mandatory_ingredients": ["Lentils", "oat flakes", "tomato sauce", "molasses"],
-      "optional_ingredients": ["Parsley"],
+      "mandatory_ingredients": [
+        "Lentils",
+        "oat flakes",
+        "tomato sauce",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Parsley"
+      ],
       "recipe": {
         "ingredients": [
           "2 cups ~ 13oz ~ 400g lentils",
@@ -847,8 +1147,15 @@
     },
     {
       "title": "Mashed Cauliflower",
-      "mandatory_ingredients": ["Cauliflower", "milk"],
-      "optional_ingredients": ["Cashews", "spring onions", "black pepper"],
+      "mandatory_ingredients": [
+        "Cauliflower",
+        "milk"
+      ],
+      "optional_ingredients": [
+        "Cashews",
+        "spring onions",
+        "black pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 ~ 1lb ~ 500g cauliflower",
@@ -867,8 +1174,19 @@
     },
     {
       "title": "Mashed Cauliflower With Mushrooms",
-      "mandatory_ingredients": ["Cauliflower", "milk", "mushrooms", "bell pepper", "onion"],
-      "optional_ingredients": ["Ginger powder", "garlic powder", "soy sauce", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Cauliflower",
+        "milk",
+        "mushrooms",
+        "bell pepper",
+        "onion"
+      ],
+      "optional_ingredients": [
+        "Ginger powder",
+        "garlic powder",
+        "soy sauce",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 ~ 1lb ~ 500g cauliflower",
@@ -892,8 +1210,15 @@
     },
     {
       "title": "Pasta With Cream Mushrooms",
-      "mandatory_ingredients": ["Pasta", "mushrooms", "milk", "flour"],
-      "optional_ingredients": ["Spring onions"],
+      "mandatory_ingredients": [
+        "Pasta",
+        "mushrooms",
+        "milk",
+        "flour"
+      ],
+      "optional_ingredients": [
+        "Spring onions"
+      ],
       "recipe": {
         "ingredients": [
           "2 cups ~ 6oz ~ 180g pasta",
@@ -913,8 +1238,14 @@
     },
     {
       "title": "Pasta With Peas",
-      "mandatory_ingredients": ["Pasta", "frozen peas"],
-      "optional_ingredients": ["Fresh basil", "pine nuts"],
+      "mandatory_ingredients": [
+        "Pasta",
+        "frozen peas"
+      ],
+      "optional_ingredients": [
+        "Fresh basil",
+        "pine nuts"
+      ],
       "recipe": {
         "ingredients": [
           "2 cups ~ 6oz ~ 180g pasta",
@@ -932,8 +1263,15 @@
     },
     {
       "title": "Pasta With Zucchini & Peas",
-      "mandatory_ingredients": ["Pasta", "frozen peas", "zucchinis"],
-      "optional_ingredients": ["Parsley", "pine nuts"],
+      "mandatory_ingredients": [
+        "Pasta",
+        "frozen peas",
+        "zucchinis"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "pine nuts"
+      ],
       "recipe": {
         "ingredients": [
           "2 cups ~ 6oz ~ 180g pasta",
@@ -952,8 +1290,18 @@
     },
     {
       "title": "Peanut Noodles",
-      "mandatory_ingredients": ["Noodles", "frozen broccoli", "peanut butter", "soy sauce"],
-      "optional_ingredients": ["Spring onions", "sesame seeds", "black pepper", "cayenne pepper"],
+      "mandatory_ingredients": [
+        "Noodles",
+        "frozen broccoli",
+        "peanut butter",
+        "soy sauce"
+      ],
+      "optional_ingredients": [
+        "Spring onions",
+        "sesame seeds",
+        "black pepper",
+        "cayenne pepper"
+      ],
       "recipe": {
         "ingredients": [
           "5oz ~ 180g noodles",
@@ -977,8 +1325,16 @@
     },
     {
       "title": "Potatoes With Broccoli",
-      "mandatory_ingredients": ["Potatoes", "frozen broccoli"],
-      "optional_ingredients": ["Cranberries", "walnuts", "balsamic vinegar", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Potatoes",
+        "frozen broccoli"
+      ],
+      "optional_ingredients": [
+        "Cranberries",
+        "walnuts",
+        "balsamic vinegar",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "4 potatoes",
@@ -1000,8 +1356,16 @@
     },
     {
       "title": "Potatoes With Eggplant",
-      "mandatory_ingredients": ["Potatoes", "eggplants", "tomato sauce", "molasses"],
-      "optional_ingredients": ["Pine nuts", "fresh basil"],
+      "mandatory_ingredients": [
+        "Potatoes",
+        "eggplants",
+        "tomato sauce",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Pine nuts",
+        "fresh basil"
+      ],
       "recipe": {
         "ingredients": [
           "4 potatoes",
@@ -1022,8 +1386,15 @@
     },
     {
       "title": "Potatoes With Mushrooms",
-      "mandatory_ingredients": ["Potatoes", "mushrooms"],
-      "optional_ingredients": ["Plain yogurt", "dried dill", "cayenne pepper"],
+      "mandatory_ingredients": [
+        "Potatoes",
+        "mushrooms"
+      ],
+      "optional_ingredients": [
+        "Plain yogurt",
+        "dried dill",
+        "cayenne pepper"
+      ],
       "recipe": {
         "ingredients": [
           "4 potatoes",
@@ -1043,8 +1414,15 @@
     },
     {
       "title": "Mashed Potatoes With Pickles",
-      "mandatory_ingredients": ["Potatoes", "tahini", "pickles"],
-      "optional_ingredients": ["Dried dill", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Potatoes",
+        "tahini",
+        "pickles"
+      ],
+      "optional_ingredients": [
+        "Dried dill",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "4 potatoes",
@@ -1064,8 +1442,15 @@
     },
     {
       "title": "Quinoa With Broccoli",
-      "mandatory_ingredients": ["Quinoa", "frozen broccoli", "tahini"],
-      "optional_ingredients": ["Sesame seeds", "lemon"],
+      "mandatory_ingredients": [
+        "Quinoa",
+        "frozen broccoli",
+        "tahini"
+      ],
+      "optional_ingredients": [
+        "Sesame seeds",
+        "lemon"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g quinoa",
@@ -1086,8 +1471,15 @@
     },
     {
       "title": "Quinoa With Corn & Avocado",
-      "mandatory_ingredients": ["Quinoa", "avocado", "sweetcorn"],
-      "optional_ingredients": ["Parsley", "cayenne pepper"],
+      "mandatory_ingredients": [
+        "Quinoa",
+        "avocado",
+        "sweetcorn"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "cayenne pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g quinoa",
@@ -1107,8 +1499,15 @@
     },
     {
       "title": "Rice With Beetroot",
-      "mandatory_ingredients": ["Rice", "cooked beetroot", "plain yogurt"],
-      "optional_ingredients": ["Spring onions", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Rice",
+        "cooked beetroot",
+        "plain yogurt"
+      ],
+      "optional_ingredients": [
+        "Spring onions",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1128,8 +1527,17 @@
     },
     {
       "title": "Rice With Broccoli & Cashews",
-      "mandatory_ingredients": ["Rice", "frozen broccoli", "cashews", "soy sauce", "maple syrup"],
-      "optional_ingredients": ["Garlic powder", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Rice",
+        "frozen broccoli",
+        "cashews",
+        "soy sauce",
+        "maple syrup"
+      ],
+      "optional_ingredients": [
+        "Garlic powder",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1152,8 +1560,15 @@
     },
     {
       "title": "Rice With Broccoli & Peas",
-      "mandatory_ingredients": ["Rice", "frozen broccoli", "frozen peas"],
-      "optional_ingredients": ["Parsley", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Rice",
+        "frozen broccoli",
+        "frozen peas"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1173,8 +1588,15 @@
     },
     {
       "title": "Rice With Butternut Squash",
-      "mandatory_ingredients": ["Rice", "butternut squash", "onion"],
-      "optional_ingredients": ["Dried cranberries", "walnuts"],
+      "mandatory_ingredients": [
+        "Rice",
+        "butternut squash",
+        "onion"
+      ],
+      "optional_ingredients": [
+        "Dried cranberries",
+        "walnuts"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1194,8 +1616,15 @@
     },
     {
       "title": "Rice With Cauliflower",
-      "mandatory_ingredients": ["Rice", "cauliflower", "tahini"],
-      "optional_ingredients": ["Spring onions", "hemp hearts"],
+      "mandatory_ingredients": [
+        "Rice",
+        "cauliflower",
+        "tahini"
+      ],
+      "optional_ingredients": [
+        "Spring onions",
+        "hemp hearts"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1216,8 +1645,17 @@
     },
     {
       "title": "Rice With Cream Mushrooms",
-      "mandatory_ingredients": ["Rice", "mushrooms", "milk", "onion", "flour"],
-      "optional_ingredients": ["Parsley", "black pepper"],
+      "mandatory_ingredients": [
+        "Rice",
+        "mushrooms",
+        "milk",
+        "onion",
+        "flour"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "black pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1239,8 +1677,15 @@
     },
     {
       "title": "Rice With Peas & Corn",
-      "mandatory_ingredients": ["Rice", "frozen peas", "frozen sweetcorn"],
-      "optional_ingredients": ["Parsley", "cayenne pepper"],
+      "mandatory_ingredients": [
+        "Rice",
+        "frozen peas",
+        "frozen sweetcorn"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "cayenne pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1260,8 +1705,16 @@
     },
     {
       "title": "Rice With Zucchini",
-      "mandatory_ingredients": ["Rice", "zucchinis", "onion"],
-      "optional_ingredients": ["Dill", "pumpkin seeds", "sunflower seeds"],
+      "mandatory_ingredients": [
+        "Rice",
+        "zucchinis",
+        "onion"
+      ],
+      "optional_ingredients": [
+        "Dill",
+        "pumpkin seeds",
+        "sunflower seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1281,8 +1734,14 @@
     },
     {
       "title": "Roasted Butternut Squash With Yogurt",
-      "mandatory_ingredients": ["Butternut squash", "plain yogurt"],
-      "optional_ingredients": ["Spring onions", "pumpkin seeds"],
+      "mandatory_ingredients": [
+        "Butternut squash",
+        "plain yogurt"
+      ],
+      "optional_ingredients": [
+        "Spring onions",
+        "pumpkin seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 whole ~ 1lb ~ 500g butternut squash",
@@ -1300,8 +1759,17 @@
     },
     {
       "title": "Spaghetti With Tomato & Eggplant",
-      "mandatory_ingredients": ["Spaghetti", "tomatoes", "eggplants", "molasses"],
-      "optional_ingredients": ["Fresh basil", "cinnamon", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Spaghetti",
+        "tomatoes",
+        "eggplants",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Fresh basil",
+        "cinnamon",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "Box ~ 250g spaghetti",
@@ -1324,8 +1792,15 @@
     },
     {
       "title": "Spinach Rice",
-      "mandatory_ingredients": ["Rice", "frozen spinach"],
-      "optional_ingredients": ["Lemon", "sun-dried tomatoes", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Rice",
+        "frozen spinach"
+      ],
+      "optional_ingredients": [
+        "Lemon",
+        "sun-dried tomatoes",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1344,8 +1819,17 @@
     },
     {
       "title": "Sushi Rice",
-      "mandatory_ingredients": ["Rice", "seaweed flakes", "carrot", "cucumber", "rice vinegar"],
-      "optional_ingredients": ["Umeboshi paste", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Rice",
+        "seaweed flakes",
+        "carrot",
+        "cucumber",
+        "rice vinegar"
+      ],
+      "optional_ingredients": [
+        "Umeboshi paste",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1368,8 +1852,17 @@
     },
     {
       "title": "Sushi Rolls",
-      "mandatory_ingredients": ["Rice", "rice vinegar", "nori sheets", "avocado", "cucumber"],
-      "optional_ingredients": ["Sesame seeds", "soy sauce"],
+      "mandatory_ingredients": [
+        "Rice",
+        "rice vinegar",
+        "nori sheets",
+        "avocado",
+        "cucumber"
+      ],
+      "optional_ingredients": [
+        "Sesame seeds",
+        "soy sauce"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1393,8 +1886,17 @@
     },
     {
       "title": "Sweet & Sour Rice",
-      "mandatory_ingredients": ["Rice", "bell peppers", "flour", "rice vinegar", "maple syrup"],
-      "optional_ingredients": ["Spring onions", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Rice",
+        "bell peppers",
+        "flour",
+        "rice vinegar",
+        "maple syrup"
+      ],
+      "optional_ingredients": [
+        "Spring onions",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1418,8 +1920,16 @@
     },
     {
       "title": "Sweet Potato With Cauliflower",
-      "mandatory_ingredients": ["Sweet potatoes", "cauliflower", "tahini"],
-      "optional_ingredients": ["Cashews", "spring onion", "cumin"],
+      "mandatory_ingredients": [
+        "Sweet potatoes",
+        "cauliflower",
+        "tahini"
+      ],
+      "optional_ingredients": [
+        "Cashews",
+        "spring onion",
+        "cumin"
+      ],
       "recipe": {
         "ingredients": [
           "2 sweet potatoes",
@@ -1441,8 +1951,18 @@
     },
     {
       "title": "Sweet Potato Curry With Rice",
-      "mandatory_ingredients": ["Sweet potatoes", "rice", "frozen spinach", "tomato sauce", "molasses", "milk", "curry powder"],
-      "optional_ingredients": ["Sesame seeds"],
+      "mandatory_ingredients": [
+        "Sweet potatoes",
+        "rice",
+        "frozen spinach",
+        "tomato sauce",
+        "molasses",
+        "milk",
+        "curry powder"
+      ],
+      "optional_ingredients": [
+        "Sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "2 sweet potatoes",
@@ -1466,8 +1986,16 @@
     },
     {
       "title": "Sweet Potato Tortilla Wrap",
-      "mandatory_ingredients": ["Sweet potatoes", "tortilla wraps", "lettuce"],
-      "optional_ingredients": ["Miso paste", "spring onions", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Sweet potatoes",
+        "tortilla wraps",
+        "lettuce"
+      ],
+      "optional_ingredients": [
+        "Miso paste",
+        "spring onions",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "2 sweet potatoes",
@@ -1489,8 +2017,16 @@
     },
     {
       "title": "Tomato Cabbage Rice",
-      "mandatory_ingredients": ["Rice", "cabbage", "tomato sauce", "molasses"],
-      "optional_ingredients": ["Parsley", "pumpkin seeds"],
+      "mandatory_ingredients": [
+        "Rice",
+        "cabbage",
+        "tomato sauce",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "pumpkin seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g rice",
@@ -1511,8 +2047,16 @@
     },
     {
       "title": "White Beans In Tomato Sauce",
-      "mandatory_ingredients": ["Cooked white beans", "tomatoes", "onion", "molasses"],
-      "optional_ingredients": ["Parsley", "pumpkin seeds"],
+      "mandatory_ingredients": [
+        "Cooked white beans",
+        "tomatoes",
+        "onion",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "pumpkin seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked white beans",
@@ -1531,8 +2075,16 @@
     },
     {
       "title": "White Bean Tortilla Wrap",
-      "mandatory_ingredients": ["Cooked white beans", "tortilla wraps", "cucumber", "lettuce"],
-      "optional_ingredients": ["Red onion", "cayenne pepper"],
+      "mandatory_ingredients": [
+        "Cooked white beans",
+        "tortilla wraps",
+        "cucumber",
+        "lettuce"
+      ],
+      "optional_ingredients": [
+        "Red onion",
+        "cayenne pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked white beans",
@@ -1552,8 +2104,20 @@
     },
     {
       "title": "Yellow Lentils Curry With Rice",
-      "mandatory_ingredients": ["Yellow lentils", "rice", "onion", "green pepper", "tomato", "milk", "molasses", "curry powder"],
-      "optional_ingredients": ["Spring onions", "cashew nuts"],
+      "mandatory_ingredients": [
+        "Yellow lentils",
+        "rice",
+        "onion",
+        "green pepper",
+        "tomato",
+        "milk",
+        "molasses",
+        "curry powder"
+      ],
+      "optional_ingredients": [
+        "Spring onions",
+        "cashew nuts"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g yellow lentils",
@@ -1579,8 +2143,16 @@
     },
     {
       "title": "Zucchini With Yogurt Sauce",
-      "mandatory_ingredients": ["Zucchinis", "plain yogurt"],
-      "optional_ingredients": ["Spring onions", "dill", "garlic", "black pepper"],
+      "mandatory_ingredients": [
+        "Zucchinis",
+        "plain yogurt"
+      ],
+      "optional_ingredients": [
+        "Spring onions",
+        "dill",
+        "garlic",
+        "black pepper"
+      ],
       "recipe": {
         "ingredients": [
           "8 zucchinis",
@@ -1603,8 +2175,17 @@
   "Salads": [
     {
       "title": "Beetroot Salad",
-      "mandatory_ingredients": ["Cooked beetroot", "balsamic vinegar", "molasses"],
-      "optional_ingredients": ["White cheese", "parsley", "garlic", "walnuts"],
+      "mandatory_ingredients": [
+        "Cooked beetroot",
+        "balsamic vinegar",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "White cheese",
+        "parsley",
+        "garlic",
+        "walnuts"
+      ],
       "recipe": {
         "ingredients": [
           "3 ~ 7oz ~ 200g cooked beetroot",
@@ -1625,8 +2206,16 @@
     },
     {
       "title": "Black Bean Salad",
-      "mandatory_ingredients": ["Cooked black beans", "tomatoes", "onion"],
-      "optional_ingredients": ["Balsamic vinegar", "pine nuts", "parsley"],
+      "mandatory_ingredients": [
+        "Cooked black beans",
+        "tomatoes",
+        "onion"
+      ],
+      "optional_ingredients": [
+        "Balsamic vinegar",
+        "pine nuts",
+        "parsley"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked black beans",
@@ -1646,8 +2235,19 @@
     },
     {
       "title": "Broccoli Carrot Salad",
-      "mandatory_ingredients": ["Fresh broccoli", "carrot", "rice vinegar", "maple syrup", "mustard"],
-      "optional_ingredients": ["Nutritional yeast", "garlic powder", "almond flakes", "black pepper"],
+      "mandatory_ingredients": [
+        "Fresh broccoli",
+        "carrot",
+        "rice vinegar",
+        "maple syrup",
+        "mustard"
+      ],
+      "optional_ingredients": [
+        "Nutritional yeast",
+        "garlic powder",
+        "almond flakes",
+        "black pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 head ~ 1lb ~ 500g fresh broccoli",
@@ -1672,8 +2272,15 @@
     },
     {
       "title": "Carrot Cucumber Ribbon Salad",
-      "mandatory_ingredients": ["Carrots", "cucumbers", "balsamic vinegar", "molasses"],
-      "optional_ingredients": ["Sesame seeds"],
+      "mandatory_ingredients": [
+        "Carrots",
+        "cucumbers",
+        "balsamic vinegar",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "3 carrots",
@@ -1693,8 +2300,17 @@
     },
     {
       "title": "Chickpea Salad",
-      "mandatory_ingredients": ["Cooked chickpeas", "tomatoes", "cucumbers", "onion", "balsamic vinegar"],
-      "optional_ingredients": ["Parsley", "black pepper"],
+      "mandatory_ingredients": [
+        "Cooked chickpeas",
+        "tomatoes",
+        "cucumbers",
+        "onion",
+        "balsamic vinegar"
+      ],
+      "optional_ingredients": [
+        "Parsley",
+        "black pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked chickpeas",
@@ -1716,8 +2332,16 @@
     },
     {
       "title": "Cucumber Pepper Salad",
-      "mandatory_ingredients": ["Cucumbers", "bell peppers", "balsamic vinegar"],
-      "optional_ingredients": ["Raisins", "sunflower seeds", "olive oil"],
+      "mandatory_ingredients": [
+        "Cucumbers",
+        "bell peppers",
+        "balsamic vinegar"
+      ],
+      "optional_ingredients": [
+        "Raisins",
+        "sunflower seeds",
+        "olive oil"
+      ],
       "recipe": {
         "ingredients": [
           "3 cucumbers",
@@ -1737,8 +2361,15 @@
     },
     {
       "title": "Lentil Arugula Salad",
-      "mandatory_ingredients": ["Lentils", "fresh arugula", "balsamic vinegar"],
-      "optional_ingredients": ["Sunflower seeds", "pumpkin seeds"],
+      "mandatory_ingredients": [
+        "Lentils",
+        "fresh arugula",
+        "balsamic vinegar"
+      ],
+      "optional_ingredients": [
+        "Sunflower seeds",
+        "pumpkin seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g lentils",
@@ -1758,8 +2389,16 @@
     },
     {
       "title": "Lentil Red Cabbage Salad",
-      "mandatory_ingredients": ["Lentils", "red cabbage", "carrots", "balsamic vinegar"],
-      "optional_ingredients": ["Sunflower seeds", "spring onions"],
+      "mandatory_ingredients": [
+        "Lentils",
+        "red cabbage",
+        "carrots",
+        "balsamic vinegar"
+      ],
+      "optional_ingredients": [
+        "Sunflower seeds",
+        "spring onions"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g lentils",
@@ -1781,8 +2420,15 @@
     },
     {
       "title": "Lettuce Cucumber Salad",
-      "mandatory_ingredients": ["Lettuce", "cucumbers"],
-      "optional_ingredients": ["Olive oil", "sunflower seeds", "chopped walnuts"],
+      "mandatory_ingredients": [
+        "Lettuce",
+        "cucumbers"
+      ],
+      "optional_ingredients": [
+        "Olive oil",
+        "sunflower seeds",
+        "chopped walnuts"
+      ],
       "recipe": {
         "ingredients": [
           "4 cups ~ 7oz ~ 200g lettuce",
@@ -1802,8 +2448,16 @@
     },
     {
       "title": "Pasta Salad",
-      "mandatory_ingredients": ["Pasta", "tomatoes", "cucumbers"],
-      "optional_ingredients": ["Balsamic vinegar", "green olives", "oregano"],
+      "mandatory_ingredients": [
+        "Pasta",
+        "tomatoes",
+        "cucumbers"
+      ],
+      "optional_ingredients": [
+        "Balsamic vinegar",
+        "green olives",
+        "oregano"
+      ],
       "recipe": {
         "ingredients": [
           "2 cups ~ 6oz ~ 180g pasta",
@@ -1825,8 +2479,15 @@
     },
     {
       "title": "Quinoa Salad",
-      "mandatory_ingredients": ["Quinoa", "bell peppers", "cucumbers", "balsamic vinegar"],
-      "optional_ingredients": ["Parsley"],
+      "mandatory_ingredients": [
+        "Quinoa",
+        "bell peppers",
+        "cucumbers",
+        "balsamic vinegar"
+      ],
+      "optional_ingredients": [
+        "Parsley"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g quinoa",
@@ -1847,8 +2508,14 @@
     },
     {
       "title": "Red Cabbage Carrot Salad",
-      "mandatory_ingredients": ["Red cabbage", "carrots", "balsamic vinegar"],
-      "optional_ingredients": ["Cashews"],
+      "mandatory_ingredients": [
+        "Red cabbage",
+        "carrots",
+        "balsamic vinegar"
+      ],
+      "optional_ingredients": [
+        "Cashews"
+      ],
       "recipe": {
         "ingredients": [
           "2 cups ~ 3oz ~ 100g red cabbage",
@@ -1866,8 +2533,15 @@
     },
     {
       "title": "Tomato Cucumber Salad",
-      "mandatory_ingredients": ["Tomatoes", "cucumbers"],
-      "optional_ingredients": ["Olives", "olive oil", "oregano"],
+      "mandatory_ingredients": [
+        "Tomatoes",
+        "cucumbers"
+      ],
+      "optional_ingredients": [
+        "Olives",
+        "olive oil",
+        "oregano"
+      ],
       "recipe": {
         "ingredients": [
           "4 tomatoes",
@@ -1886,8 +2560,17 @@
     },
     {
       "title": "White Bean Salad",
-      "mandatory_ingredients": ["Cooked white beans", "tomatoes", "onion", "balsamic vinegar", "molasses"],
-      "optional_ingredients": ["Pine nuts", "parsley"],
+      "mandatory_ingredients": [
+        "Cooked white beans",
+        "tomatoes",
+        "onion",
+        "balsamic vinegar",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Pine nuts",
+        "parsley"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked white beans",
@@ -1910,8 +2593,17 @@
   "Soups": [
     {
       "title": "Beetroot Soup",
-      "mandatory_ingredients": ["Cabbage", "cooked beetroot", "potatoes", "onion", "tomato sauce", "molasses"],
-      "optional_ingredients": ["Sesame seeds"],
+      "mandatory_ingredients": [
+        "Cabbage",
+        "cooked beetroot",
+        "potatoes",
+        "onion",
+        "tomato sauce",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "½ ~ 1lb ~ 250g cabbage",
@@ -1933,8 +2625,18 @@
     },
     {
       "title": "Black Bean Soup",
-      "mandatory_ingredients": ["Cooked black beans", "onions", "tomato sauce", "molasses"],
-      "optional_ingredients": ["Avocado", "parsley", "black pepper", "cayenne pepper"],
+      "mandatory_ingredients": [
+        "Cooked black beans",
+        "onions",
+        "tomato sauce",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Avocado",
+        "parsley",
+        "black pepper",
+        "cayenne pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked black beans",
@@ -1957,8 +2659,17 @@
     },
     {
       "title": "Broccoli Soup",
-      "mandatory_ingredients": ["Frozen broccoli", "bell peppers", "coconut milk", "tomato sauce", "molasses", "curry powder"],
-      "optional_ingredients": ["Sesame seeds"],
+      "mandatory_ingredients": [
+        "Frozen broccoli",
+        "bell peppers",
+        "coconut milk",
+        "tomato sauce",
+        "molasses",
+        "curry powder"
+      ],
+      "optional_ingredients": [
+        "Sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "1 pack ~ 1lb ~ 500g frozen broccoli",
@@ -1981,8 +2692,16 @@
     },
     {
       "title": "Cabbage Soup",
-      "mandatory_ingredients": ["Cabbage", "tomatoes", "onion", "tomato sauce", "molasses"],
-      "optional_ingredients": ["Garlic"],
+      "mandatory_ingredients": [
+        "Cabbage",
+        "tomatoes",
+        "onion",
+        "tomato sauce",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Garlic"
+      ],
       "recipe": {
         "ingredients": [
           "½ ~ 1lb ~ 250g cabbage",
@@ -2002,8 +2721,17 @@
     },
     {
       "title": "Lentil Soup",
-      "mandatory_ingredients": ["Lentils", "onion", "tomato sauce", "molasses"],
-      "optional_ingredients": ["Bay leaves", "soy sauce", "balsamic vinegar"],
+      "mandatory_ingredients": [
+        "Lentils",
+        "onion",
+        "tomato sauce",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Bay leaves",
+        "soy sauce",
+        "balsamic vinegar"
+      ],
       "recipe": {
         "ingredients": [
           "1 cup ~ 7oz ~ 200g lentils",
@@ -2025,8 +2753,15 @@
     },
     {
       "title": "Miso Noodle Soup",
-      "mandatory_ingredients": ["Noodles", "seaweed flakes", "miso paste"],
-      "optional_ingredients": ["Spring onions", "sesame seeds"],
+      "mandatory_ingredients": [
+        "Noodles",
+        "seaweed flakes",
+        "miso paste"
+      ],
+      "optional_ingredients": [
+        "Spring onions",
+        "sesame seeds"
+      ],
       "recipe": {
         "ingredients": [
           "5oz ~ 180g noodles",
@@ -2048,8 +2783,16 @@
     },
     {
       "title": "Mushroom Soup",
-      "mandatory_ingredients": ["Mushrooms", "onion", "milk", "flour"],
-      "optional_ingredients": ["Thyme", "black pepper"],
+      "mandatory_ingredients": [
+        "Mushrooms",
+        "onion",
+        "milk",
+        "flour"
+      ],
+      "optional_ingredients": [
+        "Thyme",
+        "black pepper"
+      ],
       "recipe": {
         "ingredients": [
           "1 pack ~ 12oz ~ 400g mushrooms",
@@ -2071,8 +2814,13 @@
     },
     {
       "title": "Potato & Leek Soup",
-      "mandatory_ingredients": ["Potatoes", "leeks"],
-      "optional_ingredients": ["Bay leaves"],
+      "mandatory_ingredients": [
+        "Potatoes",
+        "leeks"
+      ],
+      "optional_ingredients": [
+        "Bay leaves"
+      ],
       "recipe": {
         "ingredients": [
           "4 potatoes",
@@ -2090,8 +2838,16 @@
     },
     {
       "title": "Tomato Pasta Soup",
-      "mandatory_ingredients": ["Tomatoes", "onion", "molasses", "pasta"],
-      "optional_ingredients": ["Heavy cream", "parsley"],
+      "mandatory_ingredients": [
+        "Tomatoes",
+        "onion",
+        "molasses",
+        "pasta"
+      ],
+      "optional_ingredients": [
+        "Heavy cream",
+        "parsley"
+      ],
       "recipe": {
         "ingredients": [
           "3 tomatoes",
@@ -2112,8 +2868,16 @@
     },
     {
       "title": "White Bean Soup",
-      "mandatory_ingredients": ["Cooked white beans", "carrots", "onion", "tomato sauce", "molasses"],
-      "optional_ingredients": ["Rosemary"],
+      "mandatory_ingredients": [
+        "Cooked white beans",
+        "carrots",
+        "onion",
+        "tomato sauce",
+        "molasses"
+      ],
+      "optional_ingredients": [
+        "Rosemary"
+      ],
       "recipe": {
         "ingredients": [
           "1 can ~ 8oz ~ 240g cooked white beans",
@@ -2135,8 +2899,15 @@
     },
     {
       "title": "Zucchini Soup",
-      "mandatory_ingredients": ["Zucchinis", "frozen peas", "onion", "carrot"],
-      "optional_ingredients": ["Dried dill"],
+      "mandatory_ingredients": [
+        "Zucchinis",
+        "frozen peas",
+        "onion",
+        "carrot"
+      ],
+      "optional_ingredients": [
+        "Dried dill"
+      ],
       "recipe": {
         "ingredients": [
           "4 zucchinis",

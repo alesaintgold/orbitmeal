@@ -4,159 +4,165 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Recipes</title>
+    <!--    <link rel="stylesheet" href="./style.css">-->
     <style>
-        body { font-family: sans-serif; margin: 20px; }
-        #search-container { margin-bottom: 20px; }
-        #search-input { padding: 8px; border: 1px solid #ccc; border-radius: 4px; width: 300px; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* A more modern, clean font */
+            margin: 30px; /* Slightly more generous margin for a lighter feel */
+            background-color: #f8fbfb; /* Very light grey background */
+            color: #444; /* Darker text for better readability against the light background */
+            line-height: 1.6; /* Improved line height for readability */
+        }
+
         .category-heading {
-            color: #333;
+            color: #5cb85c; /* A vibrant, healthy green */
             cursor: pointer;
-            padding-bottom: 5px;
-            border-bottom: 1px solid #eee;
-            margin-bottom: 10px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #5cb85c; /* More prominent, colorful border */
+            margin-bottom: 15px;
+            font-size: 20px;
+            font-weight: bold; /* Make category headings stand out */
         }
-        .category { margin-bottom: 20px; }
+
+        .category {
+            margin-bottom: 30px;
+        }
+
         .recipe-list {
-            margin-bottom: 20px;
-            padding-left: 20px;
+            margin-bottom: 30px;
+            padding-left: 0; /* Remove default padding for better control */
+            list-style-type: none; /* Remove default bullet points */
         }
+
         .recipe {
-            border: 1px solid #ddd;
-            padding: 10px;
-            margin-bottom: 10px;
-            border-radius: 5px;
+            background-color: #fff; /* White background for each recipe */
+            border: 1px solid #e0e0e0; /* Lighter border */
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03); /* Subtle shadow */
         }
+
         .recipe-title {
             font-weight: bold;
-            margin-bottom: 5px;
+            margin-bottom: 8px;
             cursor: pointer;
+            color: #007bff; /* A bright blue for titles */
+            font-size: 18px;
         }
+
         .recipe-details {
             display: none;
-            margin-top: 10px;
+            margin-top: 15px;
+            padding: 15px;
+            background-color: #f9f9f9; /* Very light grey background for details */
+            border-radius: 6px;
+            border: 1px solid #eee;
         }
-        .ingredients-title { font-weight: bold; margin-top: 10px; }
-        .steps-title { font-weight: bold; margin-top: 10px; }
-        ul { list-style-type: disc; margin-left: 20px; padding-left: 0; }
-        ol { list-style-type: decimal; margin-left: 20px; padding-left: 0; }
-        .hidden { display: none !important; } /* Class to hide elements */
+
+        .ingredients-title,
+        .steps-title {
+            font-weight: bold;
+            margin-top: 15px;
+            color: #ffc107; /* A sunny yellow for emphasis */
+            font-size: 16px;
+        }
+
+        ul {
+            list-style-type: disc;
+            margin-left: 25px;
+            padding-left: 0;
+            color: #666;
+        }
+
+        ol {
+            list-style-type: decimal;
+            margin-left: 25px;
+            padding-left: 0;
+            color: #666;
+        }
     </style>
 </head>
 <body>
-    <h1>Darbee recipes</h1>
+<h1>Darebee recipes</h1>
 
-    <div id="search-container">
-        <input type="text" id="search-input" onkeyup="searchRecipes()" placeholder="Search for recipes...">
-    </div>
-
-    {% for category, recipes_list in data.items() %}
-        <div class="category" data-category="{{ category|lower }}">
-            <h2 class="category-heading" onclick="toggleRecipes('{{ category|replace(' ', '_') }}')">{{ category }}</h2>
-            <div id="{{ category|replace(' ', '_') }}" class="recipe-list">
-                {% for recipe in recipes_list %}
-                    <div class="recipe" data-title="{{ recipe.title|lower }}" data-ingredients="{{ recipe.mandatory_ingredients|join(' ')|lower }} {{ recipe.optional_ingredients|default([], true)|join(' ')|lower }} {{ recipe.recipe.ingredients|join(' ')|lower }}" data-steps="{{ recipe.recipe.steps|join(' ')|lower }}">
-                        <div class="recipe-title" onclick="toggleRecipeDetails('{{ category|replace(' ', '_') }}_{{ loop.index }}')">{{ recipe.title }}</div>
-                        <div id="{{ category|replace(' ', '_') }}_{{ loop.index }}" class="recipe-details">
-                            {% if recipe.mandatory_ingredients %}
-                                <p class="ingredients-title">Mandatory Ingredients:</p>
-                                <ul>
-                                    {% for ingredient in recipe.mandatory_ingredients %}
-                                        <li>{{ ingredient }}</li>
-                                    {% endfor %}
-                                </ul>
-                            {% endif %}
-                            {% if recipe.optional_ingredients %}
-                                <p class="ingredients-title">Optional Ingredients:</p>
-                                <ul>
-                                    {% for ingredient in recipe.optional_ingredients %}
-                                        <li>{{ ingredient }}</li>
-                                    {% endfor %}
-                                </ul>
-                            {% endif %}
-                            {% if recipe.recipe and recipe.recipe.ingredients %}
-                                <p class="ingredients-title">Ingredients:</p>
-                                <ul>
-                                    {% for item in recipe.recipe.ingredients %}
-                                        <li>{{ item }}</li>
-                                    {% endfor %}
-                                </ul>
-                            {% endif %}
-                            {% if recipe.recipe and recipe.recipe.steps %}
-                                <p class="steps-title">Steps:</p>
-                                <ol>
-                                    {% for step in recipe.recipe.steps %}
-                                        <li>{{ step }}</li>
-                                    {% endfor %}
-                                </ol>
-                            {% endif %}
-                        </div>
-                    </div>
-                {% endfor %}
+{% for category, recipes_list in data.items() %}
+<div class="category" data-category="{{ category|lower }}">
+    <h2 class="category-heading" onclick="toggleRecipes('{{ category|replace(' ', '_') }}')">{{ category }}</h2>
+    <div id="{{ category|replace(' ', '_') }}" class="recipe-list" style="display: none;">
+        {% for recipe in recipes_list %}
+        <div class="recipe hidden" data-title="{{ recipe.title|lower }}"
+             data-ingredients="{{ recipe.mandatory_ingredients|join(' ')|lower }} {{ recipe.optional_ingredients|default([], true)|join(' ')|lower }} {{ recipe.recipe.ingredients|join(' ')|lower }}"
+             data-steps="{{ recipe.recipe.steps|join(' ')|lower }}">
+            <div class="recipe-title"
+                 onclick="toggleRecipeDetails('{{ category|replace(' ', '_') }}_{{ loop.index }}')">{{ recipe.title }}
+            </div>
+            <div id="{{ category|replace(' ', '_') }}_{{ loop.index }}" class="recipe-details" style="display: none;">
+                <!--{% if recipe.mandatory_ingredients %}
+                <p class="ingredients-title">Mandatory Ingredients:</p>
+                <ul>
+                    {% for ingredient in recipe.mandatory_ingredients %}
+                    <li>{{ ingredient }}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+                {% if recipe.optional_ingredients %}
+                <p class="ingredients-title">Optional Ingredients:</p>
+                <ul>
+                    {% for ingredient in recipe.optional_ingredients %}
+                    <li>{{ ingredient }}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}-->
+                {% if recipe.recipe and recipe.recipe.ingredients %}
+                <p class="ingredients-title">Ingredients:</p>
+                <ul>
+                    {% for item in recipe.recipe.ingredients %}
+                    <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+                {% if recipe.recipe and recipe.recipe.steps %}
+                <p class="steps-title">Steps:</p>
+                <ol>
+                    {% for step in recipe.recipe.steps %}
+                    <li>{{ step }}</li>
+                    {% endfor %}
+                </ol>
+                {% endif %}
             </div>
         </div>
-    {% endfor %}
+        {% endfor %}
+    </div>
+</div>
+{% endfor %}
 
-    <script>
-        function toggleRecipes(categoryId) {
-            const recipeList = document.getElementById(categoryId);
-            if (recipeList.style.display === 'none' || recipeList.style.display === '') {
-                recipeList.style.display = 'block';
-            } else {
-                recipeList.style.display = 'none';
-            }
+<script>
+    function toggleRecipes(categoryId) {
+        const recipeList = document.getElementById(categoryId);
+        if (recipeList.style.display === 'none' || recipeList.style.display === '') {
+            recipeList.style.display = 'block';
+        } else {
+            recipeList.style.display = 'none';
         }
+    }
 
-        function toggleRecipeDetails(recipeId) {
-            const recipeDetails = document.getElementById(recipeId);
-            if (recipeDetails.style.display === 'none' || recipeDetails.style.display === '') {
-                recipeDetails.style.display = 'block';
-            } else {
-                recipeDetails.style.display = 'none';
-            }
+    function toggleRecipeDetails(recipeId) {
+        const recipeDetails = document.getElementById(recipeId);
+        if (recipeDetails.style.display === 'none' || recipeDetails.style.display === '') {
+            recipeDetails.style.display = 'block';
+        } else {
+            recipeDetails.style.display = 'none';
         }
+    }
 
-        function searchRecipes() {
-            const searchInput = document.getElementById("search-input");
-            const searchTerm = searchInput.value.toLowerCase();
-            const allCategories = document.querySelectorAll(".category");
-
-            allCategories.forEach(categoryElement => {
-                const categoryName = categoryElement.dataset.category;
-                const recipeList = categoryElement.querySelector(".recipe-list");
-                const recipes = categoryElement.querySelectorAll(".recipe");
-                let categoryHasVisibleRecipes = false;
-
-                recipes.forEach(recipeElement => {
-                    const title = recipeElement.dataset.title;
-                    const ingredients = recipeElement.dataset.ingredients;
-                    const steps = recipeElement.dataset.steps;
-
-                    if (title.includes(searchTerm) || ingredients.includes(searchTerm) || steps.includes(searchTerm)) {
-                        recipeElement.classList.remove("hidden");
-                        categoryHasVisibleRecipes = true;
-                    } else {
-                        recipeElement.classList.add("hidden");
-                    }
-                });
-
-                // Show/hide the category heading based on whether there are visible recipes
-                const categoryHeading = categoryElement.querySelector(".category-heading");
-                if (categoryHasVisibleRecipes || searchTerm === "") {
-                    categoryHeading.classList.remove("hidden");
-                    if (searchTerm === "") {
-                        // If search is empty, ensure all recipe lists are initially hidden
-                        const recipeList = categoryElement.querySelector(".recipe-list");
-                        recipeList.style.display = 'none';
-                    }
-                } else {
-                    categoryHeading.classList.add("hidden");
-                    if (recipeList) {
-                        recipeList.style.display = 'none'; // Hide the empty recipe list
-                    }
-                }
-            });
-        }
-    </script>
-
+    // Initially hide all recipe lists
+    document.addEventListener('DOMContentLoaded', function () {
+        const allRecipeLists = document.querySelectorAll('.recipe-list');
+        allRecipeLists.forEach(list => {
+            list.style.display = 'none';
+        });
+    });
+</script>
 </body>
 </html>
