@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Recipes</title>
-    <!--    <link rel="stylesheet" href="./style.css">-->
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* A more modern, clean font */
@@ -81,10 +80,21 @@
             padding-left: 0;
             color: #666;
         }
+
+        #search-bar {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
     </style>
 </head>
 <body>
 <h1>Darebee recipes</h1>
+
+<input type="text" id="search-bar" oninput="filterRecipes()" placeholder="Search recipes...">
 
 {% for category, recipes_list in data.items() %}
 <div class="category" data-category="{{ category|lower }}">
@@ -155,6 +165,36 @@
             recipeDetails.style.display = 'none';
         }
     }
+
+    function filterRecipes() {
+        const searchInput = document.getElementById('search-bar').value.toLowerCase();
+        const categories = document.querySelectorAll('.category');
+
+        categories.forEach(category => {
+            let hasMatchingRecipe = false;
+            const recipes = category.querySelectorAll('.recipe');
+
+            recipes.forEach(recipe => {
+                const title = recipe.dataset.title;
+                const ingredients = recipe.dataset.ingredients;
+                const steps = recipe.dataset.steps;
+
+                if (title.includes(searchInput) || ingredients.includes(searchInput) || steps.includes(searchInput)) {
+                    recipe.style.display = 'block';
+                    hasMatchingRecipe = true;
+                } else {
+                    recipe.style.display = 'none';
+                }
+            });
+
+            if (searchInput === '' || hasMatchingRecipe) {
+                category.style.display = 'block';
+            } else {
+                category.style.display = 'none';
+            }
+        });
+    }
+
 
     // Initially hide all recipe lists
     document.addEventListener('DOMContentLoaded', function () {
